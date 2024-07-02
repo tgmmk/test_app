@@ -1,0 +1,61 @@
+version: '3'  #docker composeファイルのバージョン
+services:
+  child-wellness:  #任意のサービス名
+    container_name: child-wellness
+    build: ./container/php  #ビルドコンテキスト。docker buildを実行する際の作業ディレクトリ
+    restart: always
+    volumes:   #ホスト側のディレクトリ等をコンテナ側にマウント
+      - ../src:/var/www #srcディレクトリをマウント
+      # PHP.ini
+      - ./container/php/php.ini:/usr/local/etc/php/php.ini
+      # Imagick
+      # - ./docker/php/policy.xml:/etc/ImageMagick-6/policy.xml
+      # Log
+      - /var/log:/var/log
+    depends_on:
+      - db
+    environment:
+      TZ: 'Asia/Tokyo'
+
+  nginx:
+    container_name: nginx
+    # https://matsuand.github.io/docs.docker.jp.onthefly/compose/compose-file/#image
+    image: nginx
+    # https://matsuand.github.io/docs.docker.jp.onthefly/compose/compose-file/#ports
+    restart: always
+    ports:
+      - 8080:80
+    # https://matsuand.github.io/docs.docker.jp.onthefly/compose/compose-file/#volumes
+    depends_on:
+      - child-wellness
+    volumes:
+      - ../src:/var/www
+      # Config
+      - ./container/nginx/log:/var/log/nginx
+      #- ./docker/nginx/logrotate.d/nginx:/etc/logrotate.d/nginx
+      - ./container/nginx/default.conf:/etc/nginx/conf.d/default.conf
+      # - ./container/nginx/nginx.conf:/etc/nginx/nginx.conf
+
+  # 以下、追記
+  db:
+    image: mysql:8.0.28
+    container_name: db-host
+    build: ./container/db
+    restart: always
+    environment:
+      MYSQL_DATABASE: childdb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: child0032
+      MYSQL_ROOT_PASSWORD: child0032
+      #TZ: 'Asia/Tokyo'
+      #MYSQL_ROOT_PASSWORD: child0032
+      #MYSQL_DATABASE: childdb
+      #MYSQL_USER: root
+      #MYSQL_PASSWORD: child0032
+    volumes:
+      - ./container/db/data:/var/lib/mysql
+      #- ./docker/db/my.cnf:/etc/mysql/conf.d/my.cnf
+      #- ./docker/db/sql:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+

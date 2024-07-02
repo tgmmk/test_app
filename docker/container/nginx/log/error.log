@@ -1,0 +1,1634 @@
+2024/03/02 09:15:10 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:11 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:11 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:12 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:13 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:15 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:19 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:26 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:15:39 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:16:05 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:16:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:17:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:18:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:19:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:20:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:21:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:22:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:24:01 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:25:02 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:26:02 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:27:03 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:28:03 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:12 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:13 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:13 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:14 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:15 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:17 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:21 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:28 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:44:41 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:45:07 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:45:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:46:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:47:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:49:00 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:50:00 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:51:01 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:52:01 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:53:01 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:54:02 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:55:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:55:56 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:55:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:55:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:55:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:56:01 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:56:04 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:56:11 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:56:24 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:56:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:57:42 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:58:42 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 09:59:43 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:00:43 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:01:44 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:02:44 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:03:44 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:04:45 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:05:45 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:06:46 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:07:46 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:08:46 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:09:47 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:10:47 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:11:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:12:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:13:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:14:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:15:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:16:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:17:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:18:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:19:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:20:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:21:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:22:52 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:23:52 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:24:53 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:25:53 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:26:53 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:27:54 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:28:54 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:29:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:30:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:31:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:32:56 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:33:56 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:34:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:35:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:36:58 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:52 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:54 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:37:57 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:04 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:20 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:21 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:21 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:22 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:24 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:26 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:29 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:36 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:38:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:39:15 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:40:07 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/default.conf:24
+2024/03/02 10:42:32 [notice] 1#1: using the "epoll" event method
+2024/03/02 10:42:32 [notice] 1#1: nginx/1.25.4
+2024/03/02 10:42:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/02 10:42:32 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/02 10:42:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/02 10:42:32 [notice] 1#1: start worker processes
+2024/03/02 10:42:32 [notice] 1#1: start worker process 28
+2024/03/02 10:42:32 [notice] 1#1: start worker process 29
+2024/03/02 10:42:32 [notice] 1#1: start worker process 30
+2024/03/02 10:42:32 [notice] 1#1: start worker process 31
+2024/03/02 10:42:32 [notice] 1#1: start worker process 32
+2024/03/02 10:42:32 [notice] 1#1: start worker process 33
+2024/03/02 10:42:32 [notice] 1#1: start worker process 34
+2024/03/02 10:42:32 [notice] 1#1: start worker process 35
+2024/03/02 10:42:32 [notice] 1#1: start worker process 36
+2024/03/02 10:42:32 [notice] 1#1: start worker process 37
+2024/03/02 10:42:32 [notice] 1#1: start worker process 38
+2024/03/02 10:42:32 [notice] 1#1: start worker process 39
+2024/03/02 10:42:32 [notice] 1#1: start worker process 40
+2024/03/02 10:42:32 [notice] 1#1: start worker process 41
+2024/03/02 10:42:32 [notice] 1#1: start worker process 42
+2024/03/02 10:42:32 [notice] 1#1: start worker process 43
+2024/03/04 11:07:26 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:27 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:28 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:28 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:30 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:32 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:35 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:42 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:07:55 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:08:21 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:09:13 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:10:13 [emerg] 1#1: host not found in upstream "child-wellness" in /etc/nginx/conf.d/default.conf:24
+2024/03/04 11:11:34 [notice] 1#1: using the "epoll" event method
+2024/03/04 11:11:34 [notice] 1#1: nginx/1.25.4
+2024/03/04 11:11:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/04 11:11:34 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/04 11:11:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/04 11:11:34 [notice] 1#1: start worker processes
+2024/03/04 11:11:34 [notice] 1#1: start worker process 28
+2024/03/04 11:11:34 [notice] 1#1: start worker process 29
+2024/03/04 11:11:34 [notice] 1#1: start worker process 30
+2024/03/04 11:11:34 [notice] 1#1: start worker process 31
+2024/03/04 11:11:34 [notice] 1#1: start worker process 32
+2024/03/04 11:11:34 [notice] 1#1: start worker process 33
+2024/03/04 11:11:34 [notice] 1#1: start worker process 34
+2024/03/04 11:11:34 [notice] 1#1: start worker process 35
+2024/03/04 11:11:34 [notice] 1#1: start worker process 36
+2024/03/04 11:11:34 [notice] 1#1: start worker process 37
+2024/03/04 11:11:34 [notice] 1#1: start worker process 38
+2024/03/04 11:11:34 [notice] 1#1: start worker process 39
+2024/03/04 11:11:34 [notice] 1#1: start worker process 40
+2024/03/04 11:11:34 [notice] 1#1: start worker process 41
+2024/03/04 11:11:34 [notice] 1#1: start worker process 42
+2024/03/04 11:11:34 [notice] 1#1: start worker process 43
+2024/03/04 11:13:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/04 11:13:16 [notice] 30#30: gracefully shutting down
+2024/03/04 11:13:16 [notice] 28#28: gracefully shutting down
+2024/03/04 11:13:16 [notice] 29#29: gracefully shutting down
+2024/03/04 11:13:16 [notice] 30#30: exiting
+2024/03/04 11:13:16 [notice] 28#28: exiting
+2024/03/04 11:13:16 [notice] 31#31: gracefully shutting down
+2024/03/04 11:13:16 [notice] 29#29: exiting
+2024/03/04 11:13:16 [notice] 32#32: gracefully shutting down
+2024/03/04 11:13:16 [notice] 31#31: exiting
+2024/03/04 11:13:16 [notice] 32#32: exiting
+2024/03/04 11:13:16 [notice] 30#30: exit
+2024/03/04 11:13:16 [notice] 28#28: exit
+2024/03/04 11:13:16 [notice] 34#34: gracefully shutting down
+2024/03/04 11:13:16 [notice] 33#33: gracefully shutting down
+2024/03/04 11:13:16 [notice] 29#29: exit
+2024/03/04 11:13:16 [notice] 32#32: exit
+2024/03/04 11:13:16 [notice] 31#31: exit
+2024/03/04 11:13:16 [notice] 40#40: gracefully shutting down
+2024/03/04 11:13:16 [notice] 34#34: exiting
+2024/03/04 11:13:16 [notice] 35#35: gracefully shutting down
+2024/03/04 11:13:16 [notice] 40#40: exiting
+2024/03/04 11:13:16 [notice] 33#33: exiting
+2024/03/04 11:13:16 [notice] 34#34: exit
+2024/03/04 11:13:16 [notice] 35#35: exiting
+2024/03/04 11:13:16 [notice] 40#40: exit
+2024/03/04 11:13:16 [notice] 33#33: exit
+2024/03/04 11:13:16 [notice] 35#35: exit
+2024/03/04 11:13:16 [notice] 36#36: gracefully shutting down
+2024/03/04 11:13:16 [notice] 39#39: gracefully shutting down
+2024/03/04 11:13:16 [notice] 36#36: exiting
+2024/03/04 11:13:16 [notice] 39#39: exiting
+2024/03/04 11:13:16 [notice] 39#39: exit
+2024/03/04 11:13:16 [notice] 36#36: exit
+2024/03/04 11:13:16 [notice] 41#41: gracefully shutting down
+2024/03/04 11:13:16 [notice] 41#41: exiting
+2024/03/04 11:13:16 [notice] 38#38: gracefully shutting down
+2024/03/04 11:13:16 [notice] 37#37: gracefully shutting down
+2024/03/04 11:13:16 [notice] 42#42: gracefully shutting down
+2024/03/04 11:13:16 [notice] 43#43: gracefully shutting down
+2024/03/04 11:13:16 [notice] 37#37: exiting
+2024/03/04 11:13:16 [notice] 42#42: exiting
+2024/03/04 11:13:16 [notice] 38#38: exiting
+2024/03/04 11:13:16 [notice] 41#41: exit
+2024/03/04 11:13:16 [notice] 43#43: exiting
+2024/03/04 11:13:16 [notice] 42#42: exit
+2024/03/04 11:13:16 [notice] 37#37: exit
+2024/03/04 11:13:16 [notice] 38#38: exit
+2024/03/04 11:13:16 [notice] 43#43: exit
+2024/03/04 11:13:16 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/04 11:13:16 [notice] 1#1: worker process 33 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: worker process 36 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: worker process 42 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:16 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/04 11:13:16 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/04 11:13:16 [notice] 1#1: worker process 29 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: worker process 37 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:16 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/04 11:13:16 [notice] 1#1: worker process 30 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: worker process 41 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:16 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/03/04 11:13:16 [notice] 1#1: worker process 35 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: worker process 38 exited with code 0
+2024/03/04 11:13:16 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:17 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/03/04 11:13:17 [notice] 1#1: worker process 32 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: worker process 39 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: worker process 40 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:17 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/04 11:13:17 [notice] 1#1: worker process 31 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:17 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/03/04 11:13:17 [notice] 1#1: worker process 34 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/04 11:13:17 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/04 11:13:17 [notice] 1#1: worker process 28 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: worker process 43 exited with code 0
+2024/03/04 11:13:17 [notice] 1#1: exit
+2024/03/04 11:13:25 [notice] 1#1: using the "epoll" event method
+2024/03/04 11:13:25 [notice] 1#1: nginx/1.25.4
+2024/03/04 11:13:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/04 11:13:25 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/04 11:13:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/04 11:13:25 [notice] 1#1: start worker processes
+2024/03/04 11:13:25 [notice] 1#1: start worker process 28
+2024/03/04 11:13:25 [notice] 1#1: start worker process 29
+2024/03/04 11:13:25 [notice] 1#1: start worker process 30
+2024/03/04 11:13:25 [notice] 1#1: start worker process 31
+2024/03/04 11:13:25 [notice] 1#1: start worker process 32
+2024/03/04 11:13:25 [notice] 1#1: start worker process 33
+2024/03/04 11:13:25 [notice] 1#1: start worker process 34
+2024/03/04 11:13:25 [notice] 1#1: start worker process 35
+2024/03/04 11:13:25 [notice] 1#1: start worker process 36
+2024/03/04 11:13:25 [notice] 1#1: start worker process 37
+2024/03/04 11:13:25 [notice] 1#1: start worker process 38
+2024/03/04 11:13:25 [notice] 1#1: start worker process 39
+2024/03/04 11:13:25 [notice] 1#1: start worker process 40
+2024/03/04 11:13:25 [notice] 1#1: start worker process 41
+2024/03/04 11:13:25 [notice] 1#1: start worker process 42
+2024/03/04 11:13:25 [notice] 1#1: start worker process 43
+2024/03/05 08:24:44 [warn] 33#33: *6 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.20.0.1, server: example.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.20.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/05 08:33:06 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/05 08:33:06 [notice] 32#32: gracefully shutting down
+2024/03/05 08:33:06 [notice] 33#33: gracefully shutting down
+2024/03/05 08:33:06 [notice] 34#34: gracefully shutting down
+2024/03/05 08:33:06 [notice] 35#35: gracefully shutting down
+2024/03/05 08:33:06 [notice] 28#28: gracefully shutting down
+2024/03/05 08:33:06 [notice] 36#36: gracefully shutting down
+2024/03/05 08:33:06 [notice] 31#31: gracefully shutting down
+2024/03/05 08:33:06 [notice] 30#30: gracefully shutting down
+2024/03/05 08:33:06 [notice] 38#38: gracefully shutting down
+2024/03/05 08:33:06 [notice] 39#39: gracefully shutting down
+2024/03/05 08:33:06 [notice] 37#37: gracefully shutting down
+2024/03/05 08:33:06 [notice] 29#29: gracefully shutting down
+2024/03/05 08:33:06 [notice] 42#42: gracefully shutting down
+2024/03/05 08:33:06 [notice] 32#32: exiting
+2024/03/05 08:33:06 [notice] 35#35: exiting
+2024/03/05 08:33:06 [notice] 34#34: exiting
+2024/03/05 08:33:06 [notice] 41#41: gracefully shutting down
+2024/03/05 08:33:06 [notice] 40#40: gracefully shutting down
+2024/03/05 08:33:06 [notice] 33#33: exiting
+2024/03/05 08:33:06 [notice] 28#28: exiting
+2024/03/05 08:33:06 [notice] 36#36: exiting
+2024/03/05 08:33:06 [notice] 38#38: exiting
+2024/03/05 08:33:06 [notice] 30#30: exiting
+2024/03/05 08:33:06 [notice] 37#37: exiting
+2024/03/05 08:33:06 [notice] 31#31: exiting
+2024/03/05 08:33:06 [notice] 34#34: exit
+2024/03/05 08:33:06 [notice] 42#42: exiting
+2024/03/05 08:33:06 [notice] 33#33: exit
+2024/03/05 08:33:06 [notice] 39#39: exiting
+2024/03/05 08:33:06 [notice] 36#36: exit
+2024/03/05 08:33:06 [notice] 28#28: exit
+2024/03/05 08:33:06 [notice] 32#32: exit
+2024/03/05 08:33:06 [notice] 35#35: exit
+2024/03/05 08:33:06 [notice] 38#38: exit
+2024/03/05 08:33:06 [notice] 41#41: exiting
+2024/03/05 08:33:06 [notice] 37#37: exit
+2024/03/05 08:33:06 [notice] 30#30: exit
+2024/03/05 08:33:06 [notice] 40#40: exiting
+2024/03/05 08:33:06 [notice] 29#29: exiting
+2024/03/05 08:33:06 [notice] 42#42: exit
+2024/03/05 08:33:06 [notice] 31#31: exit
+2024/03/05 08:33:06 [notice] 39#39: exit
+2024/03/05 08:33:06 [notice] 41#41: exit
+2024/03/05 08:33:06 [notice] 40#40: exit
+2024/03/05 08:33:06 [notice] 29#29: exit
+2024/03/05 08:33:06 [notice] 43#43: gracefully shutting down
+2024/03/05 08:33:06 [notice] 43#43: exiting
+2024/03/05 08:33:06 [notice] 43#43: exit
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/03/05 08:33:06 [notice] 1#1: worker process 43 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 31 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 32 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 33 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 35 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 36 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 37 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 38 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 39 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/05 08:33:06 [notice] 1#1: worker process 29 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 42 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/05 08:33:06 [notice] 1#1: worker process 30 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/03/05 08:33:06 [notice] 1#1: worker process 34 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: worker process 41 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/05 08:33:06 [notice] 1#1: worker process 40 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 08:33:06 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/05 08:33:06 [notice] 1#1: worker process 28 exited with code 0
+2024/03/05 08:33:06 [notice] 1#1: exit
+2024/03/05 08:33:16 [notice] 1#1: using the "epoll" event method
+2024/03/05 08:33:16 [notice] 1#1: nginx/1.25.4
+2024/03/05 08:33:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/05 08:33:16 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/05 08:33:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/05 08:33:16 [notice] 1#1: start worker processes
+2024/03/05 08:33:16 [notice] 1#1: start worker process 28
+2024/03/05 08:33:16 [notice] 1#1: start worker process 29
+2024/03/05 08:33:16 [notice] 1#1: start worker process 30
+2024/03/05 08:33:16 [notice] 1#1: start worker process 31
+2024/03/05 08:33:16 [notice] 1#1: start worker process 32
+2024/03/05 08:33:16 [notice] 1#1: start worker process 33
+2024/03/05 08:33:16 [notice] 1#1: start worker process 34
+2024/03/05 08:33:16 [notice] 1#1: start worker process 35
+2024/03/05 08:33:16 [notice] 1#1: start worker process 36
+2024/03/05 08:33:16 [notice] 1#1: start worker process 37
+2024/03/05 08:33:16 [notice] 1#1: start worker process 38
+2024/03/05 08:33:16 [notice] 1#1: start worker process 39
+2024/03/05 08:33:16 [notice] 1#1: start worker process 40
+2024/03/05 08:33:16 [notice] 1#1: start worker process 41
+2024/03/05 08:33:16 [notice] 1#1: start worker process 42
+2024/03/05 08:33:16 [notice] 1#1: start worker process 43
+2024/03/05 08:33:31 [warn] 29#29: *1 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/05 10:35:11 [warn] 30#30: *5 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/05 10:59:05 [warn] 33#33: *9 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/05 11:00:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/05 11:00:44 [notice] 33#33: gracefully shutting down
+2024/03/05 11:00:44 [notice] 32#32: gracefully shutting down
+2024/03/05 11:00:44 [notice] 28#28: gracefully shutting down
+2024/03/05 11:00:44 [notice] 30#30: gracefully shutting down
+2024/03/05 11:00:44 [notice] 31#31: gracefully shutting down
+2024/03/05 11:00:44 [notice] 29#29: gracefully shutting down
+2024/03/05 11:00:44 [notice] 37#37: gracefully shutting down
+2024/03/05 11:00:44 [notice] 35#35: gracefully shutting down
+2024/03/05 11:00:44 [notice] 34#34: gracefully shutting down
+2024/03/05 11:00:44 [notice] 39#39: gracefully shutting down
+2024/03/05 11:00:44 [notice] 36#36: gracefully shutting down
+2024/03/05 11:00:44 [notice] 33#33: exiting
+2024/03/05 11:00:44 [notice] 41#41: gracefully shutting down
+2024/03/05 11:00:44 [notice] 43#43: gracefully shutting down
+2024/03/05 11:00:44 [notice] 40#40: gracefully shutting down
+2024/03/05 11:00:44 [notice] 38#38: gracefully shutting down
+2024/03/05 11:00:44 [notice] 30#30: exiting
+2024/03/05 11:00:44 [notice] 28#28: exiting
+2024/03/05 11:00:44 [notice] 32#32: exiting
+2024/03/05 11:00:44 [notice] 31#31: exiting
+2024/03/05 11:00:44 [notice] 35#35: exiting
+2024/03/05 11:00:44 [notice] 37#37: exiting
+2024/03/05 11:00:44 [notice] 29#29: exiting
+2024/03/05 11:00:44 [notice] 30#30: exit
+2024/03/05 11:00:44 [notice] 31#31: exit
+2024/03/05 11:00:44 [notice] 32#32: exit
+2024/03/05 11:00:44 [notice] 28#28: exit
+2024/03/05 11:00:44 [notice] 33#33: exit
+2024/03/05 11:00:44 [notice] 35#35: exit
+2024/03/05 11:00:44 [notice] 42#42: gracefully shutting down
+2024/03/05 11:00:44 [notice] 37#37: exit
+2024/03/05 11:00:44 [notice] 43#43: exiting
+2024/03/05 11:00:44 [notice] 39#39: exiting
+2024/03/05 11:00:44 [notice] 34#34: exiting
+2024/03/05 11:00:44 [notice] 29#29: exit
+2024/03/05 11:00:44 [notice] 36#36: exiting
+2024/03/05 11:00:44 [notice] 41#41: exiting
+2024/03/05 11:00:44 [notice] 40#40: exiting
+2024/03/05 11:00:44 [notice] 43#43: exit
+2024/03/05 11:00:44 [notice] 34#34: exit
+2024/03/05 11:00:44 [notice] 39#39: exit
+2024/03/05 11:00:44 [notice] 38#38: exiting
+2024/03/05 11:00:44 [notice] 36#36: exit
+2024/03/05 11:00:44 [notice] 41#41: exit
+2024/03/05 11:00:44 [notice] 40#40: exit
+2024/03/05 11:00:44 [notice] 38#38: exit
+2024/03/05 11:00:44 [notice] 42#42: exiting
+2024/03/05 11:00:44 [notice] 42#42: exit
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/05 11:00:44 [notice] 1#1: worker process 33 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 34 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 40 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/03/05 11:00:44 [notice] 1#1: worker process 32 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 39 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/03/05 11:00:44 [notice] 1#1: worker process 30 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 41 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/05 11:00:44 [notice] 1#1: worker process 28 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/05 11:00:44 [notice] 1#1: worker process 31 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 37 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/03/05 11:00:44 [notice] 1#1: worker process 35 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 36 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 38 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: worker process 43 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/05 11:00:44 [notice] 1#1: worker process 42 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 11:00:44 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/05 11:00:44 [notice] 1#1: worker process 29 exited with code 0
+2024/03/05 11:00:44 [notice] 1#1: exit
+2024/03/05 11:00:53 [notice] 1#1: using the "epoll" event method
+2024/03/05 11:00:53 [notice] 1#1: nginx/1.25.4
+2024/03/05 11:00:53 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/05 11:00:53 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/05 11:00:53 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/05 11:00:53 [notice] 1#1: start worker processes
+2024/03/05 11:00:53 [notice] 1#1: start worker process 28
+2024/03/05 11:00:53 [notice] 1#1: start worker process 29
+2024/03/05 11:00:53 [notice] 1#1: start worker process 30
+2024/03/05 11:00:53 [notice] 1#1: start worker process 31
+2024/03/05 11:00:53 [notice] 1#1: start worker process 32
+2024/03/05 11:00:53 [notice] 1#1: start worker process 33
+2024/03/05 11:00:53 [notice] 1#1: start worker process 34
+2024/03/05 11:00:53 [notice] 1#1: start worker process 35
+2024/03/05 11:00:53 [notice] 1#1: start worker process 36
+2024/03/05 11:00:53 [notice] 1#1: start worker process 37
+2024/03/05 11:00:53 [notice] 1#1: start worker process 38
+2024/03/05 11:00:53 [notice] 1#1: start worker process 39
+2024/03/05 11:00:53 [notice] 1#1: start worker process 40
+2024/03/05 11:00:53 [notice] 1#1: start worker process 41
+2024/03/05 11:00:53 [notice] 1#1: start worker process 42
+2024/03/05 11:00:53 [notice] 1#1: start worker process 43
+2024/03/05 23:02:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/05 23:02:42 [notice] 36#36: gracefully shutting down
+2024/03/05 23:02:42 [notice] 35#35: gracefully shutting down
+2024/03/05 23:02:42 [notice] 28#28: gracefully shutting down
+2024/03/05 23:02:42 [notice] 31#31: gracefully shutting down
+2024/03/05 23:02:42 [notice] 29#29: gracefully shutting down
+2024/03/05 23:02:42 [notice] 33#33: gracefully shutting down
+2024/03/05 23:02:42 [notice] 34#34: gracefully shutting down
+2024/03/05 23:02:42 [notice] 37#37: gracefully shutting down
+2024/03/05 23:02:42 [notice] 30#30: gracefully shutting down
+2024/03/05 23:02:42 [notice] 32#32: gracefully shutting down
+2024/03/05 23:02:42 [notice] 42#42: gracefully shutting down
+2024/03/05 23:02:42 [notice] 39#39: gracefully shutting down
+2024/03/05 23:02:42 [notice] 43#43: gracefully shutting down
+2024/03/05 23:02:42 [notice] 35#35: exiting
+2024/03/05 23:02:42 [notice] 40#40: gracefully shutting down
+2024/03/05 23:02:42 [notice] 41#41: gracefully shutting down
+2024/03/05 23:02:42 [notice] 36#36: exiting
+2024/03/05 23:02:42 [notice] 28#28: exiting
+2024/03/05 23:02:42 [notice] 29#29: exiting
+2024/03/05 23:02:42 [notice] 35#35: exit
+2024/03/05 23:02:42 [notice] 33#33: exiting
+2024/03/05 23:02:42 [notice] 31#31: exiting
+2024/03/05 23:02:42 [notice] 30#30: exiting
+2024/03/05 23:02:42 [notice] 34#34: exiting
+2024/03/05 23:02:42 [notice] 28#28: exit
+2024/03/05 23:02:42 [notice] 38#38: gracefully shutting down
+2024/03/05 23:02:42 [notice] 37#37: exiting
+2024/03/05 23:02:42 [notice] 29#29: exit
+2024/03/05 23:02:42 [notice] 34#34: exit
+2024/03/05 23:02:42 [notice] 36#36: exit
+2024/03/05 23:02:42 [notice] 42#42: exiting
+2024/03/05 23:02:42 [notice] 32#32: exiting
+2024/03/05 23:02:42 [notice] 43#43: exiting
+2024/03/05 23:02:42 [notice] 31#31: exit
+2024/03/05 23:02:42 [notice] 33#33: exit
+2024/03/05 23:02:42 [notice] 30#30: exit
+2024/03/05 23:02:42 [notice] 37#37: exit
+2024/03/05 23:02:42 [notice] 40#40: exiting
+2024/03/05 23:02:42 [notice] 42#42: exit
+2024/03/05 23:02:42 [notice] 32#32: exit
+2024/03/05 23:02:42 [notice] 41#41: exiting
+2024/03/05 23:02:42 [notice] 39#39: exiting
+2024/03/05 23:02:42 [notice] 43#43: exit
+2024/03/05 23:02:42 [notice] 40#40: exit
+2024/03/05 23:02:42 [notice] 39#39: exit
+2024/03/05 23:02:42 [notice] 41#41: exit
+2024/03/05 23:02:42 [notice] 38#38: exiting
+2024/03/05 23:02:42 [notice] 38#38: exit
+2024/03/05 23:02:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/05 23:02:42 [notice] 1#1: worker process 29 exited with code 0
+2024/03/05 23:02:42 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:42 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/03/05 23:02:42 [notice] 1#1: worker process 36 exited with code 0
+2024/03/05 23:02:42 [notice] 1#1: worker process 37 exited with code 0
+2024/03/05 23:02:42 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:42 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/03/05 23:02:42 [notice] 1#1: worker process 34 exited with code 0
+2024/03/05 23:02:42 [notice] 1#1: worker process 38 exited with code 0
+2024/03/05 23:02:42 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/03/05 23:02:43 [notice] 1#1: worker process 39 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/05 23:02:43 [notice] 1#1: worker process 40 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/05 23:02:43 [notice] 1#1: worker process 33 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: worker process 42 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: worker process 43 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/05 23:02:43 [notice] 1#1: worker process 31 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/05 23:02:43 [notice] 1#1: worker process 28 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/03/05 23:02:43 [notice] 1#1: worker process 35 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: worker process 41 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/03/05 23:02:43 [notice] 1#1: worker process 32 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:02:43 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/05 23:02:43 [notice] 1#1: worker process 30 exited with code 0
+2024/03/05 23:02:43 [notice] 1#1: exit
+2024/03/05 23:17:25 [notice] 1#1: using the "epoll" event method
+2024/03/05 23:17:25 [notice] 1#1: nginx/1.25.4
+2024/03/05 23:17:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/05 23:17:25 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/05 23:17:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/05 23:17:25 [notice] 1#1: start worker processes
+2024/03/05 23:17:25 [notice] 1#1: start worker process 28
+2024/03/05 23:17:25 [notice] 1#1: start worker process 29
+2024/03/05 23:17:25 [notice] 1#1: start worker process 30
+2024/03/05 23:17:25 [notice] 1#1: start worker process 31
+2024/03/05 23:17:25 [notice] 1#1: start worker process 32
+2024/03/05 23:17:25 [notice] 1#1: start worker process 33
+2024/03/05 23:17:25 [notice] 1#1: start worker process 34
+2024/03/05 23:17:25 [notice] 1#1: start worker process 35
+2024/03/05 23:17:25 [notice] 1#1: start worker process 36
+2024/03/05 23:17:25 [notice] 1#1: start worker process 37
+2024/03/05 23:17:25 [notice] 1#1: start worker process 38
+2024/03/05 23:17:25 [notice] 1#1: start worker process 39
+2024/03/05 23:17:25 [notice] 1#1: start worker process 40
+2024/03/05 23:17:25 [notice] 1#1: start worker process 41
+2024/03/05 23:17:25 [notice] 1#1: start worker process 42
+2024/03/05 23:17:25 [notice] 1#1: start worker process 43
+2024/03/05 23:20:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/05 23:20:56 [notice] 28#28: gracefully shutting down
+2024/03/05 23:20:56 [notice] 28#28: exiting
+2024/03/05 23:20:56 [notice] 29#29: gracefully shutting down
+2024/03/05 23:20:56 [notice] 32#32: gracefully shutting down
+2024/03/05 23:20:56 [notice] 31#31: gracefully shutting down
+2024/03/05 23:20:56 [notice] 28#28: exit
+2024/03/05 23:20:56 [notice] 32#32: exiting
+2024/03/05 23:20:56 [notice] 30#30: gracefully shutting down
+2024/03/05 23:20:56 [notice] 32#32: exit
+2024/03/05 23:20:56 [notice] 31#31: exiting
+2024/03/05 23:20:56 [notice] 30#30: exiting
+2024/03/05 23:20:56 [notice] 33#33: gracefully shutting down
+2024/03/05 23:20:56 [notice] 30#30: exit
+2024/03/05 23:20:56 [notice] 31#31: exit
+2024/03/05 23:20:56 [notice] 35#35: gracefully shutting down
+2024/03/05 23:20:56 [notice] 36#36: gracefully shutting down
+2024/03/05 23:20:56 [notice] 29#29: exiting
+2024/03/05 23:20:56 [notice] 35#35: exiting
+2024/03/05 23:20:56 [notice] 37#37: gracefully shutting down
+2024/03/05 23:20:56 [notice] 34#34: gracefully shutting down
+2024/03/05 23:20:56 [notice] 36#36: exiting
+2024/03/05 23:20:56 [notice] 37#37: exiting
+2024/03/05 23:20:56 [notice] 34#34: exiting
+2024/03/05 23:20:56 [notice] 38#38: gracefully shutting down
+2024/03/05 23:20:56 [notice] 40#40: gracefully shutting down
+2024/03/05 23:20:56 [notice] 36#36: exit
+2024/03/05 23:20:56 [notice] 39#39: gracefully shutting down
+2024/03/05 23:20:56 [notice] 35#35: exit
+2024/03/05 23:20:56 [notice] 37#37: exit
+2024/03/05 23:20:56 [notice] 29#29: exit
+2024/03/05 23:20:56 [notice] 40#40: exiting
+2024/03/05 23:20:56 [notice] 38#38: exiting
+2024/03/05 23:20:56 [notice] 39#39: exiting
+2024/03/05 23:20:56 [notice] 38#38: exit
+2024/03/05 23:20:56 [notice] 34#34: exit
+2024/03/05 23:20:56 [notice] 39#39: exit
+2024/03/05 23:20:56 [notice] 40#40: exit
+2024/03/05 23:20:56 [notice] 33#33: exiting
+2024/03/05 23:20:56 [notice] 33#33: exit
+2024/03/05 23:20:56 [notice] 42#42: gracefully shutting down
+2024/03/05 23:20:56 [notice] 41#41: gracefully shutting down
+2024/03/05 23:20:56 [notice] 43#43: gracefully shutting down
+2024/03/05 23:20:56 [notice] 41#41: exiting
+2024/03/05 23:20:56 [notice] 42#42: exiting
+2024/03/05 23:20:56 [notice] 43#43: exiting
+2024/03/05 23:20:56 [notice] 41#41: exit
+2024/03/05 23:20:56 [notice] 42#42: exit
+2024/03/05 23:20:56 [notice] 43#43: exit
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/03/05 23:20:57 [notice] 1#1: worker process 34 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 37 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 38 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 43 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/05 23:20:57 [notice] 1#1: worker process 42 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/05 23:20:57 [notice] 1#1: worker process 29 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 30 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 31 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/05 23:20:57 [notice] 1#1: worker process 28 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 35 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/03/05 23:20:57 [notice] 1#1: worker process 32 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 36 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 39 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: worker process 40 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/03/05 23:20:57 [notice] 1#1: worker process 41 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/05 23:20:57 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/05 23:20:57 [notice] 1#1: worker process 33 exited with code 0
+2024/03/05 23:20:57 [notice] 1#1: exit
+2024/03/05 23:22:32 [notice] 1#1: using the "epoll" event method
+2024/03/05 23:22:32 [notice] 1#1: nginx/1.25.4
+2024/03/05 23:22:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/05 23:22:32 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/05 23:22:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/05 23:22:32 [notice] 1#1: start worker processes
+2024/03/05 23:22:32 [notice] 1#1: start worker process 28
+2024/03/05 23:22:32 [notice] 1#1: start worker process 29
+2024/03/05 23:22:32 [notice] 1#1: start worker process 30
+2024/03/05 23:22:32 [notice] 1#1: start worker process 31
+2024/03/05 23:22:32 [notice] 1#1: start worker process 32
+2024/03/05 23:22:32 [notice] 1#1: start worker process 33
+2024/03/05 23:22:32 [notice] 1#1: start worker process 34
+2024/03/05 23:22:32 [notice] 1#1: start worker process 35
+2024/03/05 23:22:32 [notice] 1#1: start worker process 36
+2024/03/05 23:22:32 [notice] 1#1: start worker process 37
+2024/03/05 23:22:32 [notice] 1#1: start worker process 38
+2024/03/05 23:22:32 [notice] 1#1: start worker process 39
+2024/03/05 23:22:32 [notice] 1#1: start worker process 40
+2024/03/05 23:22:32 [notice] 1#1: start worker process 41
+2024/03/05 23:22:32 [notice] 1#1: start worker process 42
+2024/03/05 23:22:32 [notice] 1#1: start worker process 43
+2024/03/05 23:29:07 [warn] 28#28: *1 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.24.0.1, server: example.com, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/register"
+2024/03/05 23:34:46 [warn] 31#31: *8 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.24.0.1, server: example.com, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/register"
+2024/03/06 07:09:50 [notice] 1#1: using the "epoll" event method
+2024/03/06 07:09:50 [notice] 1#1: nginx/1.25.4
+2024/03/06 07:09:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/06 07:09:50 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/06 07:09:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/06 07:09:50 [notice] 1#1: start worker processes
+2024/03/06 07:09:50 [notice] 1#1: start worker process 28
+2024/03/06 07:09:50 [notice] 1#1: start worker process 29
+2024/03/06 07:09:50 [notice] 1#1: start worker process 30
+2024/03/06 07:09:50 [notice] 1#1: start worker process 31
+2024/03/06 07:09:50 [notice] 1#1: start worker process 32
+2024/03/06 07:09:50 [notice] 1#1: start worker process 33
+2024/03/06 07:09:50 [notice] 1#1: start worker process 34
+2024/03/06 07:09:50 [notice] 1#1: start worker process 35
+2024/03/06 07:09:50 [notice] 1#1: start worker process 36
+2024/03/06 07:09:50 [notice] 1#1: start worker process 37
+2024/03/06 07:09:50 [notice] 1#1: start worker process 38
+2024/03/06 07:09:50 [notice] 1#1: start worker process 39
+2024/03/06 07:09:50 [notice] 1#1: start worker process 40
+2024/03/06 07:09:50 [notice] 1#1: start worker process 41
+2024/03/06 07:09:50 [notice] 1#1: start worker process 42
+2024/03/06 07:09:50 [notice] 1#1: start worker process 43
+2024/03/06 07:25:45 [warn] 32#32: *9 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.24.0.1, server: example.com, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/register"
+2024/03/09 09:52:40 [warn] 30#30: *206 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.24.0.1, server: example.com, request: "GET /dashboard HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/dashboard"
+2024/03/09 14:57:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/09 14:57:22 [notice] 33#33: gracefully shutting down
+2024/03/09 14:57:22 [notice] 34#34: gracefully shutting down
+2024/03/09 14:57:22 [notice] 28#28: gracefully shutting down
+2024/03/09 14:57:22 [notice] 30#30: gracefully shutting down
+2024/03/09 14:57:22 [notice] 35#35: gracefully shutting down
+2024/03/09 14:57:22 [notice] 29#29: gracefully shutting down
+2024/03/09 14:57:22 [notice] 31#31: gracefully shutting down
+2024/03/09 14:57:22 [notice] 32#32: gracefully shutting down
+2024/03/09 14:57:22 [notice] 36#36: gracefully shutting down
+2024/03/09 14:57:22 [notice] 38#38: gracefully shutting down
+2024/03/09 14:57:22 [notice] 37#37: gracefully shutting down
+2024/03/09 14:57:22 [notice] 39#39: gracefully shutting down
+2024/03/09 14:57:22 [notice] 40#40: gracefully shutting down
+2024/03/09 14:57:22 [notice] 41#41: gracefully shutting down
+2024/03/09 14:57:22 [notice] 43#43: gracefully shutting down
+2024/03/09 14:57:22 [notice] 35#35: exiting
+2024/03/09 14:57:22 [notice] 42#42: gracefully shutting down
+2024/03/09 14:57:22 [notice] 29#29: exiting
+2024/03/09 14:57:22 [notice] 33#33: exiting
+2024/03/09 14:57:22 [notice] 28#28: exiting
+2024/03/09 14:57:22 [notice] 32#32: exiting
+2024/03/09 14:57:22 [notice] 34#34: exiting
+2024/03/09 14:57:22 [notice] 31#31: exiting
+2024/03/09 14:57:22 [notice] 36#36: exiting
+2024/03/09 14:57:22 [notice] 30#30: exiting
+2024/03/09 14:57:22 [notice] 37#37: exiting
+2024/03/09 14:57:22 [notice] 41#41: exiting
+2024/03/09 14:57:22 [notice] 34#34: exit
+2024/03/09 14:57:22 [notice] 39#39: exiting
+2024/03/09 14:57:22 [notice] 38#38: exiting
+2024/03/09 14:57:22 [notice] 40#40: exiting
+2024/03/09 14:57:22 [notice] 28#28: exit
+2024/03/09 14:57:22 [notice] 29#29: exit
+2024/03/09 14:57:22 [notice] 36#36: exit
+2024/03/09 14:57:22 [notice] 32#32: exit
+2024/03/09 14:57:22 [notice] 43#43: exiting
+2024/03/09 14:57:22 [notice] 35#35: exit
+2024/03/09 14:57:22 [notice] 33#33: exit
+2024/03/09 14:57:22 [notice] 42#42: exiting
+2024/03/09 14:57:22 [notice] 41#41: exit
+2024/03/09 14:57:22 [notice] 31#31: exit
+2024/03/09 14:57:22 [notice] 38#38: exit
+2024/03/09 14:57:22 [notice] 39#39: exit
+2024/03/09 14:57:22 [notice] 30#30: exit
+2024/03/09 14:57:22 [notice] 37#37: exit
+2024/03/09 14:57:22 [notice] 43#43: exit
+2024/03/09 14:57:22 [notice] 40#40: exit
+2024/03/09 14:57:22 [notice] 42#42: exit
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/03/09 14:57:22 [notice] 1#1: worker process 28 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 31 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 32 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 34 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 43 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/03/09 14:57:22 [notice] 1#1: worker process 39 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/03/09 14:57:22 [notice] 1#1: worker process 36 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 37 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 38 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/09 14:57:22 [notice] 1#1: worker process 33 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 29 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 40 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 41 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/09 14:57:22 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/03/09 14:57:22 [notice] 1#1: worker process 30 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 35 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: worker process 42 exited with code 0
+2024/03/09 14:57:22 [notice] 1#1: exit
+2024/03/09 14:59:00 [notice] 1#1: using the "epoll" event method
+2024/03/09 14:59:00 [notice] 1#1: nginx/1.25.4
+2024/03/09 14:59:00 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/09 14:59:00 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/09 14:59:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/09 14:59:00 [notice] 1#1: start worker processes
+2024/03/09 14:59:00 [notice] 1#1: start worker process 28
+2024/03/09 14:59:00 [notice] 1#1: start worker process 29
+2024/03/09 14:59:00 [notice] 1#1: start worker process 30
+2024/03/09 14:59:00 [notice] 1#1: start worker process 31
+2024/03/09 14:59:00 [notice] 1#1: start worker process 32
+2024/03/09 14:59:00 [notice] 1#1: start worker process 33
+2024/03/09 14:59:00 [notice] 1#1: start worker process 34
+2024/03/09 14:59:00 [notice] 1#1: start worker process 35
+2024/03/09 14:59:00 [notice] 1#1: start worker process 36
+2024/03/09 14:59:00 [notice] 1#1: start worker process 37
+2024/03/09 14:59:00 [notice] 1#1: start worker process 38
+2024/03/09 14:59:00 [notice] 1#1: start worker process 39
+2024/03/09 14:59:00 [notice] 1#1: start worker process 40
+2024/03/09 14:59:00 [notice] 1#1: start worker process 41
+2024/03/09 14:59:00 [notice] 1#1: start worker process 42
+2024/03/09 14:59:00 [notice] 1#1: start worker process 43
+2024/03/09 15:03:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/09 15:03:30 [notice] 30#30: gracefully shutting down
+2024/03/09 15:03:30 [notice] 29#29: gracefully shutting down
+2024/03/09 15:03:30 [notice] 28#28: gracefully shutting down
+2024/03/09 15:03:30 [notice] 29#29: exiting
+2024/03/09 15:03:30 [notice] 31#31: gracefully shutting down
+2024/03/09 15:03:30 [notice] 32#32: gracefully shutting down
+2024/03/09 15:03:30 [notice] 29#29: exit
+2024/03/09 15:03:30 [notice] 30#30: exiting
+2024/03/09 15:03:30 [notice] 32#32: exiting
+2024/03/09 15:03:30 [notice] 30#30: exit
+2024/03/09 15:03:30 [notice] 34#34: gracefully shutting down
+2024/03/09 15:03:30 [notice] 34#34: exiting
+2024/03/09 15:03:30 [notice] 28#28: exiting
+2024/03/09 15:03:30 [notice] 32#32: exit
+2024/03/09 15:03:30 [notice] 33#33: gracefully shutting down
+2024/03/09 15:03:30 [notice] 34#34: exit
+2024/03/09 15:03:30 [notice] 28#28: exit
+2024/03/09 15:03:30 [notice] 36#36: gracefully shutting down
+2024/03/09 15:03:30 [notice] 35#35: gracefully shutting down
+2024/03/09 15:03:30 [notice] 37#37: gracefully shutting down
+2024/03/09 15:03:30 [notice] 38#38: gracefully shutting down
+2024/03/09 15:03:30 [notice] 39#39: gracefully shutting down
+2024/03/09 15:03:30 [notice] 38#38: exiting
+2024/03/09 15:03:30 [notice] 31#31: exiting
+2024/03/09 15:03:30 [notice] 40#40: gracefully shutting down
+2024/03/09 15:03:30 [notice] 36#36: exiting
+2024/03/09 15:03:30 [notice] 37#37: exiting
+2024/03/09 15:03:30 [notice] 43#43: gracefully shutting down
+2024/03/09 15:03:30 [notice] 39#39: exiting
+2024/03/09 15:03:30 [notice] 41#41: gracefully shutting down
+2024/03/09 15:03:30 [notice] 35#35: exiting
+2024/03/09 15:03:30 [notice] 31#31: exit
+2024/03/09 15:03:30 [notice] 38#38: exit
+2024/03/09 15:03:30 [notice] 37#37: exit
+2024/03/09 15:03:30 [notice] 36#36: exit
+2024/03/09 15:03:30 [notice] 39#39: exit
+2024/03/09 15:03:30 [notice] 42#42: gracefully shutting down
+2024/03/09 15:03:30 [notice] 35#35: exit
+2024/03/09 15:03:30 [notice] 43#43: exiting
+2024/03/09 15:03:30 [notice] 33#33: exiting
+2024/03/09 15:03:30 [notice] 40#40: exiting
+2024/03/09 15:03:30 [notice] 43#43: exit
+2024/03/09 15:03:30 [notice] 33#33: exit
+2024/03/09 15:03:30 [notice] 42#42: exiting
+2024/03/09 15:03:30 [notice] 40#40: exit
+2024/03/09 15:03:30 [notice] 42#42: exit
+2024/03/09 15:03:30 [notice] 41#41: exiting
+2024/03/09 15:03:30 [notice] 41#41: exit
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/03/09 15:03:30 [notice] 1#1: worker process 28 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 32 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 36 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 39 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/09 15:03:30 [notice] 1#1: worker process 29 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 30 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 40 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/09 15:03:30 [notice] 1#1: worker process 33 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/09 15:03:30 [notice] 1#1: worker process 31 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 41 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/03/09 15:03:30 [notice] 1#1: worker process 34 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 37 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 43 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/09 15:03:30 [notice] 1#1: worker process 35 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: worker process 42 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:03:30 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/03/09 15:03:30 [notice] 1#1: worker process 38 exited with code 0
+2024/03/09 15:03:30 [notice] 1#1: exit
+2024/03/09 15:06:14 [notice] 1#1: using the "epoll" event method
+2024/03/09 15:06:14 [notice] 1#1: nginx/1.25.4
+2024/03/09 15:06:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/09 15:06:14 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/09 15:06:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/09 15:06:14 [notice] 1#1: start worker processes
+2024/03/09 15:06:14 [notice] 1#1: start worker process 28
+2024/03/09 15:06:14 [notice] 1#1: start worker process 29
+2024/03/09 15:06:14 [notice] 1#1: start worker process 30
+2024/03/09 15:06:14 [notice] 1#1: start worker process 31
+2024/03/09 15:06:14 [notice] 1#1: start worker process 32
+2024/03/09 15:06:14 [notice] 1#1: start worker process 33
+2024/03/09 15:06:14 [notice] 1#1: start worker process 34
+2024/03/09 15:06:14 [notice] 1#1: start worker process 35
+2024/03/09 15:06:14 [notice] 1#1: start worker process 36
+2024/03/09 15:06:14 [notice] 1#1: start worker process 37
+2024/03/09 15:06:14 [notice] 1#1: start worker process 38
+2024/03/09 15:06:14 [notice] 1#1: start worker process 39
+2024/03/09 15:06:14 [notice] 1#1: start worker process 40
+2024/03/09 15:06:14 [notice] 1#1: start worker process 41
+2024/03/09 15:06:14 [notice] 1#1: start worker process 42
+2024/03/09 15:06:14 [notice] 1#1: start worker process 43
+2024/03/09 15:18:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/09 15:18:18 [notice] 28#28: gracefully shutting down
+2024/03/09 15:18:18 [notice] 32#32: gracefully shutting down
+2024/03/09 15:18:18 [notice] 29#29: gracefully shutting down
+2024/03/09 15:18:18 [notice] 40#40: gracefully shutting down
+2024/03/09 15:18:18 [notice] 30#30: gracefully shutting down
+2024/03/09 15:18:18 [notice] 38#38: gracefully shutting down
+2024/03/09 15:18:18 [notice] 34#34: gracefully shutting down
+2024/03/09 15:18:18 [notice] 40#40: exiting
+2024/03/09 15:18:18 [notice] 31#31: gracefully shutting down
+2024/03/09 15:18:18 [notice] 29#29: exiting
+2024/03/09 15:18:18 [notice] 36#36: gracefully shutting down
+2024/03/09 15:18:18 [notice] 40#40: exit
+2024/03/09 15:18:18 [notice] 29#29: exit
+2024/03/09 15:18:18 [notice] 37#37: gracefully shutting down
+2024/03/09 15:18:18 [notice] 33#33: gracefully shutting down
+2024/03/09 15:18:18 [notice] 39#39: gracefully shutting down
+2024/03/09 15:18:18 [notice] 35#35: gracefully shutting down
+2024/03/09 15:18:18 [notice] 32#32: exiting
+2024/03/09 15:18:18 [notice] 31#31: exiting
+2024/03/09 15:18:18 [notice] 34#34: exiting
+2024/03/09 15:18:18 [notice] 39#39: exiting
+2024/03/09 15:18:18 [notice] 31#31: exit
+2024/03/09 15:18:18 [notice] 34#34: exit
+2024/03/09 15:18:18 [notice] 32#32: exit
+2024/03/09 15:18:18 [notice] 33#33: exiting
+2024/03/09 15:18:18 [notice] 39#39: exit
+2024/03/09 15:18:18 [notice] 41#41: gracefully shutting down
+2024/03/09 15:18:18 [notice] 43#43: gracefully shutting down
+2024/03/09 15:18:18 [notice] 33#33: exit
+2024/03/09 15:18:18 [notice] 43#43: exiting
+2024/03/09 15:18:18 [notice] 35#35: exiting
+2024/03/09 15:18:18 [notice] 38#38: exiting
+2024/03/09 15:18:18 [notice] 42#42: gracefully shutting down
+2024/03/09 15:18:18 [notice] 43#43: exit
+2024/03/09 15:18:18 [notice] 28#28: exiting
+2024/03/09 15:18:18 [notice] 35#35: exit
+2024/03/09 15:18:18 [notice] 30#30: exiting
+2024/03/09 15:18:18 [notice] 36#36: exiting
+2024/03/09 15:18:18 [notice] 38#38: exit
+2024/03/09 15:18:18 [notice] 28#28: exit
+2024/03/09 15:18:18 [notice] 41#41: exiting
+2024/03/09 15:18:18 [notice] 36#36: exit
+2024/03/09 15:18:18 [notice] 30#30: exit
+2024/03/09 15:18:18 [notice] 37#37: exiting
+2024/03/09 15:18:18 [notice] 41#41: exit
+2024/03/09 15:18:18 [notice] 42#42: exiting
+2024/03/09 15:18:18 [notice] 42#42: exit
+2024/03/09 15:18:18 [notice] 37#37: exit
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/03/09 15:18:18 [notice] 1#1: worker process 30 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/09 15:18:18 [notice] 1#1: worker process 29 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/09 15:18:18 [notice] 1#1: worker process 28 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 32 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 39 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 41 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/09 15:18:18 [notice] 1#1: worker process 31 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 36 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/03/09 15:18:18 [notice] 1#1: worker process 35 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 38 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/03/09 15:18:18 [notice] 1#1: worker process 42 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: worker process 43 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/03/09 15:18:18 [notice] 1#1: worker process 34 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/09 15:18:18 [notice] 1#1: worker process 33 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/03/09 15:18:18 [notice] 1#1: worker process 37 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/09 15:18:18 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/09 15:18:18 [notice] 1#1: worker process 40 exited with code 0
+2024/03/09 15:18:18 [notice] 1#1: exit
+2024/03/09 15:19:14 [notice] 1#1: using the "epoll" event method
+2024/03/09 15:19:14 [notice] 1#1: nginx/1.25.4
+2024/03/09 15:19:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/09 15:19:14 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/09 15:19:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/09 15:19:14 [notice] 1#1: start worker processes
+2024/03/09 15:19:14 [notice] 1#1: start worker process 28
+2024/03/09 15:19:14 [notice] 1#1: start worker process 29
+2024/03/09 15:19:14 [notice] 1#1: start worker process 30
+2024/03/09 15:19:14 [notice] 1#1: start worker process 31
+2024/03/09 15:19:14 [notice] 1#1: start worker process 32
+2024/03/09 15:19:14 [notice] 1#1: start worker process 33
+2024/03/09 15:19:14 [notice] 1#1: start worker process 34
+2024/03/09 15:19:14 [notice] 1#1: start worker process 35
+2024/03/09 15:19:14 [notice] 1#1: start worker process 36
+2024/03/09 15:19:14 [notice] 1#1: start worker process 37
+2024/03/09 15:19:14 [notice] 1#1: start worker process 38
+2024/03/09 15:19:14 [notice] 1#1: start worker process 39
+2024/03/09 15:19:14 [notice] 1#1: start worker process 40
+2024/03/09 15:19:14 [notice] 1#1: start worker process 41
+2024/03/09 15:19:14 [notice] 1#1: start worker process 42
+2024/03/09 15:19:14 [notice] 1#1: start worker process 43
+2024/03/09 15:56:22 [warn] 28#28: *2 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/dashboard"
+2024/03/09 16:15:10 [warn] 42#42: *32 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/dashboard"
+2024/03/09 23:39:30 [notice] 1#1: using the "epoll" event method
+2024/03/09 23:39:30 [notice] 1#1: nginx/1.25.4
+2024/03/09 23:39:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/09 23:39:30 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/09 23:39:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/09 23:39:30 [notice] 1#1: start worker processes
+2024/03/09 23:39:30 [notice] 1#1: start worker process 28
+2024/03/09 23:39:30 [notice] 1#1: start worker process 29
+2024/03/09 23:39:30 [notice] 1#1: start worker process 30
+2024/03/09 23:39:30 [notice] 1#1: start worker process 31
+2024/03/09 23:39:30 [notice] 1#1: start worker process 32
+2024/03/09 23:39:30 [notice] 1#1: start worker process 33
+2024/03/09 23:39:30 [notice] 1#1: start worker process 34
+2024/03/09 23:39:30 [notice] 1#1: start worker process 35
+2024/03/09 23:39:30 [notice] 1#1: start worker process 36
+2024/03/09 23:39:30 [notice] 1#1: start worker process 37
+2024/03/09 23:39:30 [notice] 1#1: start worker process 38
+2024/03/09 23:39:30 [notice] 1#1: start worker process 39
+2024/03/09 23:39:30 [notice] 1#1: start worker process 40
+2024/03/09 23:39:30 [notice] 1#1: start worker process 41
+2024/03/09 23:39:30 [notice] 1#1: start worker process 42
+2024/03/09 23:39:30 [notice] 1#1: start worker process 43
+2024/03/12 21:49:48 [warn] 28#28: *69 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /mst HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/13 11:12:00 [warn] 30#30: *121 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/14 11:33:57 [warn] 31#31: *171 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /mst/customer HTTP/1.1", upstream: "fastcgi://172.21.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/15 03:30:23 [notice] 1#1: using the "epoll" event method
+2024/03/15 03:30:23 [notice] 1#1: nginx/1.25.4
+2024/03/15 03:30:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/15 03:30:23 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/15 03:30:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/15 03:30:23 [notice] 1#1: start worker processes
+2024/03/15 03:30:23 [notice] 1#1: start worker process 28
+2024/03/15 03:30:23 [notice] 1#1: start worker process 29
+2024/03/15 03:30:23 [notice] 1#1: start worker process 30
+2024/03/15 03:30:23 [notice] 1#1: start worker process 31
+2024/03/15 03:30:23 [notice] 1#1: start worker process 32
+2024/03/15 03:30:23 [notice] 1#1: start worker process 33
+2024/03/15 03:30:23 [notice] 1#1: start worker process 34
+2024/03/15 03:30:23 [notice] 1#1: start worker process 35
+2024/03/15 03:30:23 [notice] 1#1: start worker process 36
+2024/03/15 03:30:23 [notice] 1#1: start worker process 37
+2024/03/15 03:30:23 [notice] 1#1: start worker process 38
+2024/03/15 03:30:23 [notice] 1#1: start worker process 39
+2024/03/15 03:30:23 [notice] 1#1: start worker process 40
+2024/03/15 03:30:23 [notice] 1#1: start worker process 41
+2024/03/15 03:30:23 [notice] 1#1: start worker process 42
+2024/03/15 03:30:23 [notice] 1#1: start worker process 43
+2024/03/15 10:13:58 [notice] 1#1: using the "epoll" event method
+2024/03/15 10:13:58 [notice] 1#1: nginx/1.25.4
+2024/03/15 10:13:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/15 10:13:58 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/15 10:13:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/15 10:13:58 [notice] 1#1: start worker processes
+2024/03/15 10:13:58 [notice] 1#1: start worker process 28
+2024/03/15 10:13:58 [notice] 1#1: start worker process 29
+2024/03/15 10:13:58 [notice] 1#1: start worker process 30
+2024/03/15 10:13:58 [notice] 1#1: start worker process 31
+2024/03/15 10:13:58 [notice] 1#1: start worker process 32
+2024/03/15 10:13:58 [notice] 1#1: start worker process 33
+2024/03/15 10:13:58 [notice] 1#1: start worker process 34
+2024/03/15 10:13:58 [notice] 1#1: start worker process 35
+2024/03/15 10:13:58 [notice] 1#1: start worker process 36
+2024/03/15 10:13:58 [notice] 1#1: start worker process 37
+2024/03/15 10:13:58 [notice] 1#1: start worker process 38
+2024/03/15 10:13:58 [notice] 1#1: start worker process 39
+2024/03/15 10:13:58 [notice] 1#1: start worker process 40
+2024/03/15 10:13:58 [notice] 1#1: start worker process 41
+2024/03/15 10:13:58 [notice] 1#1: start worker process 42
+2024/03/15 10:13:58 [notice] 1#1: start worker process 43
+2024/03/15 10:45:12 [warn] 34#34: *14 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/03/15 11:02:07 [warn] 43#43: *31 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/15 11:02:37 [warn] 43#43: *31 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/16 08:23:13 [warn] 37#37: *353 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=&to_date=&week=Choose+a+country&student_name=&free_word="
+2024/03/16 08:44:07 [warn] 37#37: *394 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/00/0000000005 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&free_word=%E3%81%B2%E3%81%AA%E7%A5%AD%E3%82%8A HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&free_word=%E3%81%B2%E3%81%AA%E7%A5%AD%E3%82%8A"
+2024/03/16 11:36:03 [warn] 40#40: *552 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?page=2 HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?page=2"
+2024/03/16 14:39:22 [warn] 43#43: *657 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/00/0000000007 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/16 14:53:26 [warn] 43#43: *664 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/00/0000000008 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/16 14:57:10 [warn] 43#43: *672 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/00/0000000009 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/16 15:00:50 [warn] 28#28: *677 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/01/0000000010 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/16 15:05:04 [warn] 28#28: *692 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/01/0000000011 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule/edit/19?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule?_token=FMpqV991s97pKw5U9igqUZeG14O2psKDKfHHycEC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/17 08:32:15 [warn] 31#31: *811 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/01/0000000012 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule/edit/19?_token=b7q1waF5cBzpmQIODfC4QKNOciUFgOiqXEQwgXtC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/17 10:50:16 [warn] 32#32: *856 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/01/0000000013 while reading upstream, client: 172.21.0.1, server: example.com, request: "GET /schedule/edit/1?_token=b7q1waF5cBzpmQIODfC4QKNOciUFgOiqXEQwgXtC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word= HTTP/1.1", upstream: "fastcgi://172.21.0.4:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule/edit/1?_token=b7q1waF5cBzpmQIODfC4QKNOciUFgOiqXEQwgXtC&from_date=2024-03-01&to_date=2024-03-31&week=&student_name=&student_kana=&free_word="
+2024/03/19 11:21:09 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/03/19 11:21:09 [notice] 28#28: gracefully shutting down
+2024/03/19 11:21:09 [notice] 29#29: gracefully shutting down
+2024/03/19 11:21:09 [notice] 34#34: gracefully shutting down
+2024/03/19 11:21:09 [notice] 31#31: gracefully shutting down
+2024/03/19 11:21:09 [notice] 33#33: gracefully shutting down
+2024/03/19 11:21:09 [notice] 28#28: exiting
+2024/03/19 11:21:09 [notice] 32#32: gracefully shutting down
+2024/03/19 11:21:09 [notice] 36#36: gracefully shutting down
+2024/03/19 11:21:09 [notice] 39#39: gracefully shutting down
+2024/03/19 11:21:09 [notice] 28#28: exit
+2024/03/19 11:21:09 [notice] 29#29: exiting
+2024/03/19 11:21:09 [notice] 30#30: gracefully shutting down
+2024/03/19 11:21:09 [notice] 39#39: exiting
+2024/03/19 11:21:09 [notice] 32#32: exiting
+2024/03/19 11:21:09 [notice] 39#39: exit
+2024/03/19 11:21:09 [notice] 37#37: gracefully shutting down
+2024/03/19 11:21:09 [notice] 35#35: gracefully shutting down
+2024/03/19 11:21:09 [notice] 43#43: gracefully shutting down
+2024/03/19 11:21:09 [notice] 29#29: exit
+2024/03/19 11:21:09 [notice] 43#43: exiting
+2024/03/19 11:21:09 [notice] 43#43: exit
+2024/03/19 11:21:09 [notice] 42#42: gracefully shutting down
+2024/03/19 11:21:09 [notice] 32#32: exit
+2024/03/19 11:21:09 [notice] 37#37: exiting
+2024/03/19 11:21:09 [notice] 35#35: exiting
+2024/03/19 11:21:09 [notice] 33#33: exiting
+2024/03/19 11:21:09 [notice] 37#37: exit
+2024/03/19 11:21:09 [notice] 42#42: exiting
+2024/03/19 11:21:09 [notice] 42#42: exit
+2024/03/19 11:21:09 [notice] 31#31: exiting
+2024/03/19 11:21:09 [notice] 38#38: gracefully shutting down
+2024/03/19 11:21:09 [notice] 31#31: exit
+2024/03/19 11:21:09 [notice] 33#33: exit
+2024/03/19 11:21:09 [notice] 34#34: exiting
+2024/03/19 11:21:09 [notice] 41#41: gracefully shutting down
+2024/03/19 11:21:09 [notice] 30#30: exiting
+2024/03/19 11:21:09 [notice] 40#40: gracefully shutting down
+2024/03/19 11:21:09 [notice] 35#35: exit
+2024/03/19 11:21:09 [notice] 34#34: exit
+2024/03/19 11:21:09 [notice] 30#30: exit
+2024/03/19 11:21:09 [notice] 38#38: exiting
+2024/03/19 11:21:09 [notice] 36#36: exiting
+2024/03/19 11:21:09 [notice] 38#38: exit
+2024/03/19 11:21:09 [notice] 36#36: exit
+2024/03/19 11:21:09 [notice] 40#40: exiting
+2024/03/19 11:21:09 [notice] 41#41: exiting
+2024/03/19 11:21:09 [notice] 41#41: exit
+2024/03/19 11:21:09 [notice] 40#40: exit
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/03/19 11:21:09 [notice] 1#1: worker process 35 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: worker process 43 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/03/19 11:21:09 [notice] 1#1: worker process 42 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: worker process 29 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/03/19 11:21:09 [notice] 1#1: worker process 36 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: worker process 38 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/03/19 11:21:09 [notice] 1#1: worker process 30 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: worker process 33 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/03/19 11:21:09 [notice] 1#1: worker process 34 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:09 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/03/19 11:21:09 [notice] 1#1: worker process 40 exited with code 0
+2024/03/19 11:21:09 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/03/19 11:21:10 [notice] 1#1: worker process 37 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/03/19 11:21:10 [notice] 1#1: worker process 31 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/03/19 11:21:10 [notice] 1#1: worker process 32 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/03/19 11:21:10 [notice] 1#1: worker process 28 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/03/19 11:21:10 [notice] 1#1: worker process 41 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: signal 29 (SIGIO) received
+2024/03/19 11:21:10 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/03/19 11:21:10 [notice] 1#1: worker process 39 exited with code 0
+2024/03/19 11:21:10 [notice] 1#1: exit
+2024/03/19 11:21:20 [notice] 1#1: using the "epoll" event method
+2024/03/19 11:21:20 [notice] 1#1: nginx/1.25.4
+2024/03/19 11:21:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/03/19 11:21:20 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/03/19 11:21:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/03/19 11:21:20 [notice] 1#1: start worker processes
+2024/03/19 11:21:20 [notice] 1#1: start worker process 28
+2024/03/19 11:21:20 [notice] 1#1: start worker process 29
+2024/03/19 11:21:20 [notice] 1#1: start worker process 30
+2024/03/19 11:21:20 [notice] 1#1: start worker process 31
+2024/03/19 11:21:20 [notice] 1#1: start worker process 32
+2024/03/19 11:21:20 [notice] 1#1: start worker process 33
+2024/03/19 11:21:20 [notice] 1#1: start worker process 34
+2024/03/19 11:21:20 [notice] 1#1: start worker process 35
+2024/03/19 11:21:20 [notice] 1#1: start worker process 36
+2024/03/19 11:21:20 [notice] 1#1: start worker process 37
+2024/03/19 11:21:20 [notice] 1#1: start worker process 38
+2024/03/19 11:21:20 [notice] 1#1: start worker process 39
+2024/03/19 11:21:20 [notice] 1#1: start worker process 40
+2024/03/19 11:21:20 [notice] 1#1: start worker process 41
+2024/03/19 11:21:20 [notice] 1#1: start worker process 42
+2024/03/19 11:21:20 [notice] 1#1: start worker process 43
+2024/03/20 01:00:00 [warn] 30#30: *221 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/20 03:27:21 [warn] 35#35: *317 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.18.0.1, server: example.com, request: "POST /schedule/create HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/20 11:12:31 [warn] 40#40: *620 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /schedule/edit/19 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule/edit/19?sche_id=19&_token=qOY6nhFcSENKfcEFj99EbDfsD90JGaRYHzfRik82&from_date=2024-03-19&to_date=2024-03-19&week=2&student_name=%E8%A3%95%E5%A4%AA&student_kana=%E3%82%86%E3%81%86%E3%81%9F&free_word=%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E4%BC%9A"
+2024/03/22 19:21:51 [warn] 28#28: *821 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /schedule HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/login"
+2024/03/22 19:24:29 [warn] 43#43: *833 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/00/0000000005 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup_place HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080"
+2024/03/23 04:15:44 [warn] 31#31: *1115 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup_place HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place"
+2024/03/23 06:02:33 [warn] 37#37: *1186 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/00/0000000007 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup_place/edit HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place/edit"
+2024/03/23 06:04:36 [warn] 37#37: *1189 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/00/0000000008 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup_place/edit HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place/edit"
+2024/03/23 06:41:28 [warn] 38#38: *1205 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/00/0000000009 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup_place HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place"
+2024/03/23 07:04:21 [warn] 38#38: *1226 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/01/0000000010 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule"
+2024/03/23 07:37:34 [warn] 39#39: *1285 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/01/0000000011 while reading upstream, client: 172.18.0.1, server: example.com, request: "POST /pickup_place/update HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place/edit/2?mst_place_id=2&_token=BcLzrATD0wUPUaXbWGGgYppz5sQ4Pb2qMGZdEUdo&student_name=&student_kana=&place_name=&address="
+2024/03/23 10:41:16 [warn] 42#42: *1410 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/01/0000000012 while reading upstream, client: 172.18.0.1, server: example.com, request: "POST /pickup_place/update HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place/edit/2?mst_place_id=2&_token=BcLzrATD0wUPUaXbWGGgYppz5sQ4Pb2qMGZdEUdo&student_name=&student_kana=&place_name=&address="
+2024/03/23 11:33:52 [warn] 29#29: *1514 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/01/0000000013 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup"
+2024/03/24 00:03:10 [warn] 29#29: *1542 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/01/0000000014 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place"
+2024/03/24 00:03:26 [warn] 29#29: *1542 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/01/0000000015 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup"
+2024/03/24 00:03:29 [warn] 29#29: *1542 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/01/0000000016 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup"
+2024/03/24 00:04:28 [warn] 29#29: *1542 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/01/0000000017 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup"
+2024/03/24 06:48:55 [warn] 33#33: *1579 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/01/0000000018 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /schedule/edit/19 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule/edit/19?sche_id=19&_token=w9KdMwfEJID45VfVqaq1QLLhPri43jtE25jMoHMx&from_date=2024-03-01&to_date=2024-03-31&week=ALL&student_name=&student_kana=&free_word="
+2024/03/24 06:50:44 [warn] 33#33: *1587 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/01/0000000019 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /schedule/edit/19 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule/edit/19?sche_id=19&_token=w9KdMwfEJID45VfVqaq1QLLhPri43jtE25jMoHMx&from_date=2024-03-01&to_date=2024-03-31&week=ALL&student_name=&student_kana=&free_word="
+2024/03/26 06:49:01 [warn] 30#30: *1623 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/02/0000000020 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/schedule/edit/19?sche_id=19"
+2024/03/26 08:32:56 [warn] 32#32: *1720 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/02/0000000021 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=QObsVlmkGwAqsm83chsJGwyV2eQ8LO8FooOUnJ0l&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup?route_id=&_token=QObsVlmkGwAqsm83chsJGwyV2eQ8LO8FooOUnJ0l&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/27 10:17:31 [warn] 31#31: *1795 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/02/0000000022 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=h2TQLhWFcX3nFHPlL0HfKUHiAw4lBsotONiPAfAa&from_date=2024-03-01&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup?page=2"
+2024/03/28 21:43:16 [warn] 41#41: *2082 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/02/0000000023 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31"
+2024/03/28 21:45:39 [warn] 41#41: *2087 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/02/0000000024 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31"
+2024/03/28 22:09:22 [warn] 42#42: *2114 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/02/0000000025 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?_token=Wfy6j4gRPSjMoZsrtoqAxhT7M9aKoJ5uKUqei4YS&from_date=2024-03-19&pickup_div=ALL&route_id=31&student_kana=&student_name=&to_date=2024-03-31"
+2024/03/29 07:06:31 [warn] 28#28: *2167 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/02/0000000026 while reading upstream, client: 172.18.0.1, server: example.com, request: "POST /pickup/update HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=L5mZV1LVcSBDz2mCYysGZsIOgYnUNHTyeZDv7rKo&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 06:53:03 [warn] 31#31: *2468 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/02/0000000027 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 06:54:35 [warn] 31#31: *2471 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/02/0000000028 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 06:59:46 [warn] 36#36: *2474 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/02/0000000029 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 08:35:50 [warn] 38#38: *2579 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/03/0000000030 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 08:39:12 [warn] 38#38: *2583 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/03/0000000031 while reading upstream, client: 172.18.0.1, server: example.com, request: "GET /pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/pickup/edit/31?route_id=31&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&from_date=2024-03-19&to_date=2024-03-31&pickup_div=ALL&student_name=&student_kana="
+2024/03/31 10:59:03 [warn] 40#40: *2651 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000032, client: 172.18.0.1, server: example.com, request: "POST /pickup_place/update HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/pickup_place/edit/3?mst_place_id=3&_token=0sbizGTn9YMruc4ohj9xemUO7XAXxlGusk19g11s&student_name=&student_kana=&place_name=&address="
+2024/04/03 08:59:34 [notice] 1#1: using the "epoll" event method
+2024/04/03 08:59:34 [notice] 1#1: nginx/1.25.4
+2024/04/03 08:59:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/04/03 08:59:34 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/04/03 08:59:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/04/03 08:59:34 [notice] 1#1: start worker processes
+2024/04/03 08:59:34 [notice] 1#1: start worker process 28
+2024/04/03 08:59:34 [notice] 1#1: start worker process 29
+2024/04/03 08:59:34 [notice] 1#1: start worker process 30
+2024/04/03 08:59:34 [notice] 1#1: start worker process 31
+2024/04/03 08:59:34 [notice] 1#1: start worker process 32
+2024/04/03 08:59:34 [notice] 1#1: start worker process 33
+2024/04/03 08:59:34 [notice] 1#1: start worker process 34
+2024/04/03 08:59:34 [notice] 1#1: start worker process 35
+2024/04/03 08:59:34 [notice] 1#1: start worker process 36
+2024/04/03 08:59:34 [notice] 1#1: start worker process 37
+2024/04/03 08:59:34 [notice] 1#1: start worker process 38
+2024/04/03 08:59:34 [notice] 1#1: start worker process 39
+2024/04/03 08:59:34 [notice] 1#1: start worker process 40
+2024/04/03 08:59:34 [notice] 1#1: start worker process 41
+2024/04/03 08:59:34 [notice] 1#1: start worker process 42
+2024/04/03 08:59:34 [notice] 1#1: start worker process 43
+2024/04/03 11:39:32 [notice] 1#1: using the "epoll" event method
+2024/04/03 11:39:32 [notice] 1#1: nginx/1.25.4
+2024/04/03 11:39:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/04/03 11:39:32 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/04/03 11:39:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/04/03 11:39:32 [notice] 1#1: start worker processes
+2024/04/03 11:39:32 [notice] 1#1: start worker process 28
+2024/04/03 11:39:32 [notice] 1#1: start worker process 29
+2024/04/03 11:39:32 [notice] 1#1: start worker process 30
+2024/04/03 11:39:32 [notice] 1#1: start worker process 31
+2024/04/03 11:39:32 [notice] 1#1: start worker process 32
+2024/04/03 11:39:32 [notice] 1#1: start worker process 33
+2024/04/03 11:39:32 [notice] 1#1: start worker process 34
+2024/04/03 11:39:32 [notice] 1#1: start worker process 35
+2024/04/03 11:39:32 [notice] 1#1: start worker process 36
+2024/04/03 11:39:32 [notice] 1#1: start worker process 37
+2024/04/03 11:39:32 [notice] 1#1: start worker process 38
+2024/04/03 11:39:32 [notice] 1#1: start worker process 39
+2024/04/03 11:39:32 [notice] 1#1: start worker process 40
+2024/04/03 11:39:32 [notice] 1#1: start worker process 41
+2024/04/03 11:39:32 [notice] 1#1: start worker process 42
+2024/04/03 11:39:32 [notice] 1#1: start worker process 43
+2024/04/05 01:53:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/04/05 01:53:21 [notice] 30#30: gracefully shutting down
+2024/04/05 01:53:21 [notice] 29#29: gracefully shutting down
+2024/04/05 01:53:21 [notice] 28#28: gracefully shutting down
+2024/04/05 01:53:21 [notice] 32#32: gracefully shutting down
+2024/04/05 01:53:21 [notice] 31#31: gracefully shutting down
+2024/04/05 01:53:21 [notice] 35#35: gracefully shutting down
+2024/04/05 01:53:21 [notice] 34#34: gracefully shutting down
+2024/04/05 01:53:21 [notice] 33#33: gracefully shutting down
+2024/04/05 01:53:21 [notice] 36#36: gracefully shutting down
+2024/04/05 01:53:21 [notice] 37#37: gracefully shutting down
+2024/04/05 01:53:21 [notice] 38#38: gracefully shutting down
+2024/04/05 01:53:21 [notice] 39#39: gracefully shutting down
+2024/04/05 01:53:21 [notice] 41#41: gracefully shutting down
+2024/04/05 01:53:21 [notice] 40#40: gracefully shutting down
+2024/04/05 01:53:21 [notice] 30#30: exiting
+2024/04/05 01:53:21 [notice] 32#32: exiting
+2024/04/05 01:53:21 [notice] 35#35: exiting
+2024/04/05 01:53:21 [notice] 29#29: exiting
+2024/04/05 01:53:21 [notice] 33#33: exiting
+2024/04/05 01:53:21 [notice] 36#36: exiting
+2024/04/05 01:53:21 [notice] 28#28: exiting
+2024/04/05 01:53:21 [notice] 41#41: exiting
+2024/04/05 01:53:21 [notice] 38#38: exiting
+2024/04/05 01:53:21 [notice] 37#37: exiting
+2024/04/05 01:53:21 [notice] 39#39: exiting
+2024/04/05 01:53:21 [notice] 34#34: exiting
+2024/04/05 01:53:21 [notice] 40#40: exiting
+2024/04/05 01:53:21 [notice] 31#31: exiting
+2024/04/05 01:53:21 [notice] 31#31: exit
+2024/04/05 01:53:21 [notice] 30#30: exit
+2024/04/05 01:53:21 [notice] 36#36: exit
+2024/04/05 01:53:21 [notice] 29#29: exit
+2024/04/05 01:53:21 [notice] 38#38: exit
+2024/04/05 01:53:21 [notice] 35#35: exit
+2024/04/05 01:53:21 [notice] 32#32: exit
+2024/04/05 01:53:21 [notice] 37#37: exit
+2024/04/05 01:53:21 [notice] 40#40: exit
+2024/04/05 01:53:21 [notice] 39#39: exit
+2024/04/05 01:53:21 [notice] 33#33: exit
+2024/04/05 01:53:22 [notice] 43#43: gracefully shutting down
+2024/04/05 01:53:21 [notice] 41#41: exit
+2024/04/05 01:53:22 [notice] 42#42: gracefully shutting down
+2024/04/05 01:53:21 [notice] 34#34: exit
+2024/04/05 01:53:21 [notice] 28#28: exit
+2024/04/05 01:53:22 [notice] 43#43: exiting
+2024/04/05 01:53:22 [notice] 42#42: exiting
+2024/04/05 01:53:22 [notice] 43#43: exit
+2024/04/05 01:53:22 [notice] 42#42: exit
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/04/05 01:53:22 [notice] 1#1: worker process 32 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/04/05 01:53:22 [notice] 1#1: worker process 28 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 30 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 31 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 33 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 34 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 35 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 38 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 39 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 40 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 42 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: worker process 43 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/04/05 01:53:22 [notice] 1#1: worker process 41 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/04/05 01:53:22 [notice] 1#1: worker process 36 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/04/05 01:53:22 [notice] 1#1: worker process 29 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/05 01:53:22 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2024/04/05 01:53:22 [notice] 1#1: worker process 37 exited with code 0
+2024/04/05 01:53:22 [notice] 1#1: exit
+2024/04/05 03:35:09 [notice] 1#1: using the "epoll" event method
+2024/04/05 03:35:09 [notice] 1#1: nginx/1.25.4
+2024/04/05 03:35:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/04/05 03:35:09 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/04/05 03:35:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/04/05 03:35:09 [notice] 1#1: start worker processes
+2024/04/05 03:35:09 [notice] 1#1: start worker process 28
+2024/04/05 03:35:09 [notice] 1#1: start worker process 29
+2024/04/05 03:35:09 [notice] 1#1: start worker process 30
+2024/04/05 03:35:09 [notice] 1#1: start worker process 31
+2024/04/05 03:35:09 [notice] 1#1: start worker process 32
+2024/04/05 03:35:09 [notice] 1#1: start worker process 33
+2024/04/05 03:35:09 [notice] 1#1: start worker process 34
+2024/04/05 03:35:09 [notice] 1#1: start worker process 35
+2024/04/05 03:35:09 [notice] 1#1: start worker process 36
+2024/04/05 03:35:09 [notice] 1#1: start worker process 37
+2024/04/05 03:35:09 [notice] 1#1: start worker process 38
+2024/04/05 03:35:09 [notice] 1#1: start worker process 39
+2024/04/05 03:35:09 [notice] 1#1: start worker process 40
+2024/04/05 03:35:09 [notice] 1#1: start worker process 41
+2024/04/05 03:35:09 [notice] 1#1: start worker process 42
+2024/04/05 03:35:09 [notice] 1#1: start worker process 43
+2024/04/16 09:25:34 [notice] 1#1: using the "epoll" event method
+2024/04/16 09:25:34 [notice] 1#1: nginx/1.25.4
+2024/04/16 09:25:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/04/16 09:25:34 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/04/16 09:25:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/04/16 09:25:34 [notice] 1#1: start worker processes
+2024/04/16 09:25:34 [notice] 1#1: start worker process 28
+2024/04/16 09:25:34 [notice] 1#1: start worker process 29
+2024/04/16 09:25:34 [notice] 1#1: start worker process 30
+2024/04/16 09:25:34 [notice] 1#1: start worker process 31
+2024/04/16 09:25:34 [notice] 1#1: start worker process 32
+2024/04/16 09:25:34 [notice] 1#1: start worker process 33
+2024/04/16 09:25:34 [notice] 1#1: start worker process 34
+2024/04/16 09:25:34 [notice] 1#1: start worker process 35
+2024/04/16 09:25:34 [notice] 1#1: start worker process 36
+2024/04/16 09:25:34 [notice] 1#1: start worker process 37
+2024/04/16 09:25:34 [notice] 1#1: start worker process 38
+2024/04/16 09:25:34 [notice] 1#1: start worker process 39
+2024/04/16 09:25:34 [notice] 1#1: start worker process 40
+2024/04/16 09:25:34 [notice] 1#1: start worker process 41
+2024/04/16 09:25:34 [notice] 1#1: start worker process 42
+2024/04/16 09:25:34 [notice] 1#1: start worker process 43
+2024/04/20 11:04:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/04/20 11:04:32 [notice] 30#30: gracefully shutting down
+2024/04/20 11:04:32 [notice] 28#28: gracefully shutting down
+2024/04/20 11:04:32 [notice] 31#31: gracefully shutting down
+2024/04/20 11:04:32 [notice] 29#29: gracefully shutting down
+2024/04/20 11:04:32 [notice] 32#32: gracefully shutting down
+2024/04/20 11:04:32 [notice] 35#35: gracefully shutting down
+2024/04/20 11:04:32 [notice] 38#38: gracefully shutting down
+2024/04/20 11:04:32 [notice] 33#33: gracefully shutting down
+2024/04/20 11:04:32 [notice] 39#39: gracefully shutting down
+2024/04/20 11:04:32 [notice] 36#36: gracefully shutting down
+2024/04/20 11:04:32 [notice] 42#42: gracefully shutting down
+2024/04/20 11:04:32 [notice] 41#41: gracefully shutting down
+2024/04/20 11:04:32 [notice] 34#34: gracefully shutting down
+2024/04/20 11:04:32 [notice] 37#37: gracefully shutting down
+2024/04/20 11:04:32 [notice] 40#40: gracefully shutting down
+2024/04/20 11:04:32 [notice] 31#31: exiting
+2024/04/20 11:04:32 [notice] 35#35: exiting
+2024/04/20 11:04:32 [notice] 28#28: exiting
+2024/04/20 11:04:32 [notice] 32#32: exiting
+2024/04/20 11:04:32 [notice] 38#38: exiting
+2024/04/20 11:04:32 [notice] 30#30: exiting
+2024/04/20 11:04:32 [notice] 43#43: gracefully shutting down
+2024/04/20 11:04:32 [notice] 39#39: exiting
+2024/04/20 11:04:32 [notice] 33#33: exiting
+2024/04/20 11:04:32 [notice] 36#36: exiting
+2024/04/20 11:04:32 [notice] 40#40: exiting
+2024/04/20 11:04:32 [notice] 42#42: exiting
+2024/04/20 11:04:32 [notice] 37#37: exiting
+2024/04/20 11:04:32 [notice] 41#41: exiting
+2024/04/20 11:04:32 [notice] 34#34: exiting
+2024/04/20 11:04:32 [notice] 29#29: exiting
+2024/04/20 11:04:32 [notice] 43#43: exiting
+2024/04/20 11:04:32 [notice] 40#40: exit
+2024/04/20 11:04:32 [notice] 43#43: exit
+2024/04/20 11:04:32 [notice] 41#41: exit
+2024/04/20 11:04:32 [notice] 36#36: exit
+2024/04/20 11:04:32 [notice] 32#32: exit
+2024/04/20 11:04:32 [notice] 38#38: exit
+2024/04/20 11:04:32 [notice] 39#39: exit
+2024/04/20 11:04:32 [notice] 33#33: exit
+2024/04/20 11:04:32 [notice] 30#30: exit
+2024/04/20 11:04:32 [notice] 35#35: exit
+2024/04/20 11:04:32 [notice] 29#29: exit
+2024/04/20 11:04:32 [notice] 31#31: exit
+2024/04/20 11:04:32 [notice] 28#28: exit
+2024/04/20 11:04:32 [notice] 37#37: exit
+2024/04/20 11:04:32 [notice] 42#42: exit
+2024/04/20 11:04:32 [notice] 34#34: exit
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/04/20 11:04:32 [notice] 1#1: worker process 33 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 37 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 39 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/04/20 11:04:32 [notice] 1#1: worker process 35 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/04/20 11:04:32 [notice] 1#1: worker process 29 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/04/20 11:04:32 [notice] 1#1: worker process 34 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 36 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 30 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 38 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 40 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 42 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/04/20 11:04:32 [notice] 1#1: worker process 31 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: worker process 43 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/04/20 11:04:32 [notice] 1#1: worker process 32 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:32 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/04/20 11:04:32 [notice] 1#1: worker process 28 exited with code 0
+2024/04/20 11:04:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/04/20 11:04:33 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/04/20 11:04:33 [notice] 1#1: worker process 41 exited with code 0
+2024/04/20 11:04:33 [notice] 1#1: exit
+2024/04/21 08:08:14 [notice] 1#1: using the "epoll" event method
+2024/04/21 08:08:14 [notice] 1#1: nginx/1.25.4
+2024/04/21 08:08:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/04/21 08:08:14 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/04/21 08:08:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/04/21 08:08:14 [notice] 1#1: start worker processes
+2024/04/21 08:08:14 [notice] 1#1: start worker process 28
+2024/04/21 08:08:14 [notice] 1#1: start worker process 29
+2024/04/21 08:08:14 [notice] 1#1: start worker process 30
+2024/04/21 08:08:14 [notice] 1#1: start worker process 31
+2024/04/21 08:08:14 [notice] 1#1: start worker process 32
+2024/04/21 08:08:14 [notice] 1#1: start worker process 33
+2024/04/21 08:08:14 [notice] 1#1: start worker process 34
+2024/04/21 08:08:14 [notice] 1#1: start worker process 35
+2024/04/21 08:08:14 [notice] 1#1: start worker process 36
+2024/04/21 08:08:14 [notice] 1#1: start worker process 37
+2024/04/21 08:08:14 [notice] 1#1: start worker process 38
+2024/04/21 08:08:14 [notice] 1#1: start worker process 39
+2024/04/21 08:08:14 [notice] 1#1: start worker process 40
+2024/04/21 08:08:14 [notice] 1#1: start worker process 41
+2024/04/21 08:08:14 [notice] 1#1: start worker process 42
+2024/04/21 08:08:14 [notice] 1#1: start worker process 43
+2024/05/03 23:42:16 [notice] 1#1: using the "epoll" event method
+2024/05/03 23:42:16 [notice] 1#1: nginx/1.25.4
+2024/05/03 23:42:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/03 23:42:16 [notice] 1#1: OS: Linux 5.10.102.1-microsoft-standard-WSL2
+2024/05/03 23:42:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1024:524288
+2024/05/03 23:42:16 [notice] 1#1: start worker processes
+2024/05/03 23:42:16 [notice] 1#1: start worker process 28
+2024/05/03 23:42:16 [notice] 1#1: start worker process 29
+2024/05/03 23:42:16 [notice] 1#1: start worker process 30
+2024/05/03 23:42:16 [notice] 1#1: start worker process 31
+2024/05/03 23:42:16 [notice] 1#1: start worker process 32
+2024/05/03 23:42:16 [notice] 1#1: start worker process 33
+2024/05/03 23:42:16 [notice] 1#1: start worker process 34
+2024/05/03 23:42:16 [notice] 1#1: start worker process 35
+2024/05/03 23:42:16 [notice] 1#1: start worker process 36
+2024/05/03 23:42:16 [notice] 1#1: start worker process 37
+2024/05/03 23:42:16 [notice] 1#1: start worker process 38
+2024/05/03 23:42:16 [notice] 1#1: start worker process 39
+2024/05/03 23:42:16 [notice] 1#1: start worker process 40
+2024/05/03 23:42:16 [notice] 1#1: start worker process 41
+2024/05/03 23:42:16 [notice] 1#1: start worker process 42
+2024/05/03 23:42:16 [notice] 1#1: start worker process 43
+2024/05/03 23:43:31 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/03 23:43:31 [notice] 29#29: gracefully shutting down
+2024/05/03 23:43:31 [notice] 28#28: gracefully shutting down
+2024/05/03 23:43:31 [notice] 29#29: exiting
+2024/05/03 23:43:31 [notice] 28#28: exiting
+2024/05/03 23:43:31 [notice] 30#30: gracefully shutting down
+2024/05/03 23:43:31 [notice] 29#29: exit
+2024/05/03 23:43:31 [notice] 30#30: exiting
+2024/05/03 23:43:31 [notice] 30#30: exit
+2024/05/03 23:43:31 [notice] 28#28: exit
+2024/05/03 23:43:31 [notice] 32#32: gracefully shutting down
+2024/05/03 23:43:31 [notice] 31#31: gracefully shutting down
+2024/05/03 23:43:31 [notice] 32#32: exiting
+2024/05/03 23:43:31 [notice] 31#31: exiting
+2024/05/03 23:43:31 [notice] 32#32: exit
+2024/05/03 23:43:31 [notice] 33#33: gracefully shutting down
+2024/05/03 23:43:31 [notice] 33#33: exiting
+2024/05/03 23:43:31 [notice] 31#31: exit
+2024/05/03 23:43:31 [notice] 34#34: gracefully shutting down
+2024/05/03 23:43:31 [notice] 33#33: exit
+2024/05/03 23:43:31 [notice] 34#34: exiting
+2024/05/03 23:43:31 [notice] 35#35: gracefully shutting down
+2024/05/03 23:43:31 [notice] 36#36: gracefully shutting down
+2024/05/03 23:43:31 [notice] 35#35: exiting
+2024/05/03 23:43:31 [notice] 36#36: exiting
+2024/05/03 23:43:31 [notice] 34#34: exit
+2024/05/03 23:43:31 [notice] 36#36: exit
+2024/05/03 23:43:31 [notice] 35#35: exit
+2024/05/03 23:43:31 [notice] 37#37: gracefully shutting down
+2024/05/03 23:43:31 [notice] 38#38: gracefully shutting down
+2024/05/03 23:43:31 [notice] 37#37: exiting
+2024/05/03 23:43:31 [notice] 38#38: exiting
+2024/05/03 23:43:31 [notice] 41#41: gracefully shutting down
+2024/05/03 23:43:31 [notice] 39#39: gracefully shutting down
+2024/05/03 23:43:31 [notice] 41#41: exiting
+2024/05/03 23:43:31 [notice] 38#38: exit
+2024/05/03 23:43:31 [notice] 39#39: exiting
+2024/05/03 23:43:31 [notice] 37#37: exit
+2024/05/03 23:43:31 [notice] 40#40: gracefully shutting down
+2024/05/03 23:43:31 [notice] 41#41: exit
+2024/05/03 23:43:31 [notice] 39#39: exit
+2024/05/03 23:43:31 [notice] 40#40: exiting
+2024/05/03 23:43:31 [notice] 40#40: exit
+2024/05/03 23:43:31 [notice] 42#42: gracefully shutting down
+2024/05/03 23:43:31 [notice] 42#42: exiting
+2024/05/03 23:43:31 [notice] 43#43: gracefully shutting down
+2024/05/03 23:43:31 [notice] 43#43: exiting
+2024/05/03 23:43:31 [notice] 42#42: exit
+2024/05/03 23:43:31 [notice] 43#43: exit
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/05/03 23:43:32 [notice] 1#1: worker process 31 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/05/03 23:43:32 [notice] 1#1: worker process 29 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 33 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 41 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 43 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2024/05/03 23:43:32 [notice] 1#1: worker process 32 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 38 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/05/03 23:43:32 [notice] 1#1: worker process 28 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 30 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 37 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: worker process 42 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/05/03 23:43:32 [notice] 1#1: worker process 34 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2024/05/03 23:43:32 [notice] 1#1: worker process 36 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2024/05/03 23:43:32 [notice] 1#1: worker process 35 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/05/03 23:43:32 [notice] 1#1: worker process 40 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: signal 29 (SIGIO) received
+2024/05/03 23:43:32 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2024/05/03 23:43:32 [notice] 1#1: worker process 39 exited with code 0
+2024/05/03 23:43:32 [notice] 1#1: exit

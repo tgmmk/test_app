@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "４０",
+          "short_name": "４０",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "１丁目",
+          "short_name": "１丁目",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_3"
+          ]
+        },
+        {
+          "long_name": "柳津町梅松",
+          "short_name": "柳津町梅松",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_2"
+          ]
+        },
+        {
+          "long_name": "岐阜市",
+          "short_name": "岐阜市",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "岐阜県",
+          "short_name": "岐阜県",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "日本",
+          "short_name": "JP",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "501-6105",
+          "short_name": "501-6105",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "日本、〒501-6105 岐阜県岐阜市柳津町梅松１丁目４０",
+      "geometry": {
+        "bounds": {
+          "south": 35.3645778,
+          "west": 136.7413977,
+          "north": 35.3646594,
+          "east": 136.7414629
+        },
+        "location": {
+          "lat": 35.3646179,
+          "lng": 136.7414364
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "south": 35.3633133197085,
+          "west": 136.7400810697085,
+          "north": 35.3660112802915,
+          "east": 136.7427790302915
+        }
+      },
+      "place_id": "ChIJd8hCz06vA2ARTU6n-yglH5M",
+      "types": [
+        "premise"
+      ]
+    }
+  ]
+}
