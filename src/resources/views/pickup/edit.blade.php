@@ -70,18 +70,14 @@
 						</div>
 					</form>
                 </div>
-				<!-- <div id="map" style="height: 400px;" ></div>
-				<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjDxKLUxy3fQYmwEX61Vep-X7qFnno0KA&loading=async&callback=initMap&v=weekly&language=ja" defer></script> -->
             </div>
         </div>
     </div>
 
 
 	<!-- 更新モーダル start-->
-	<!-- <div id="hs-basic-modal" tabindex="-1" aria-hidden="true" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none"> -->
 	<div id="hs-delete-modal" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none">
 		<div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all lg:max-w-4xl lg:w-full m-3 lg:mx-auto"><!-- largeサイズ -->
-		<!-- <div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all sm:max-w-lg sm:w-full m-3 sm:mx-auto"> basicサイズ-->
 			<div class="flex flex-col bg-white border shadow-sm rounded-xl pointer-events-auto dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
 				<form action="/schedule/delete" method="post" enctype="multipart/form-data" class="p-6" >
 				送迎順を更新します。よろしいですか。
@@ -100,10 +96,8 @@
 		</div>
 	</div>
 	<!-- 経路最適化モーダル start-->
-	<!-- <div id="hs-basic-modal" tabindex="-1" aria-hidden="true" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none"> -->
 	<div id="hs-route-modal" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none">
 		<div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all lg:max-w-4xl lg:w-full m-3 lg:mx-auto"><!-- largeサイズ -->
-		<!-- <div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all sm:max-w-lg sm:w-full m-3 sm:mx-auto"> basicサイズ-->
 			<div class="flex flex-col bg-white border shadow-sm rounded-xl pointer-events-auto dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
 				<div class="flex justify-between items-center py-3 px-4 border-b dark:border-gray-700">
 					<h3 id="route_title" class="font-bold text-gray-800 dark:text-white">
@@ -132,15 +126,8 @@
 
 				<div class="p-2">
 					<div id="map" style="height: 500px;" ></div>
-					<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDG1k-vWa78nEZRddGs5aConC7xrjbBsuI&loading=async&callback=initMap&v=weekly&language=ja" defer></script> -->
 					<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjDxKLUxy3fQYmwEX61Vep-X7qFnno0KA&loading=async&callback=initMap&v=weekly&language=ja" defer></script>
 				</div>
-
-				<!-- <div id="button" class="flex justify-center items-center gap-x-2 pt-5 px-4 dark:border-gray-700">
-					<button type="button" class="createConfirmBtn py-2 px-10 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-lime-400 hover:bg-lime-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
-						作成
-					</button>
-				</div> -->
 			</div>
 		</div>
 	</div>
@@ -155,50 +142,23 @@
 				console.log("idx:"+idx);
 				$(this).val(idx + 1);
 		})
-		// ソート機能の実装
+		// マウスドラッグで送迎順入れ替え機能
 		$('#table_sort').sortable();
 		$('#table_sort').bind('sortstop', function (e, ui) {
-	
 			$(this).find('input').each(function(idx){
 				console.log("idx:"+idx);
 				$(this).val(idx + 1);
 			})
 		});
 
-
 		$("#confirmBtn").click(function() {
 			$('#update').submit();
 		});
-
-		// $("#optimalUpdateBtn").click(function() {
-		// 	// $('#update').submit();
-		// 	console.log("#optimalUpdateBtn");
-		// });
 
 		$('.routeBtn').click(function() {
 			// 教室idを取得
 			var type = $(this).data('type');
 			console.log("type:"+type);
-
-			// // モーダルの内容を初期化する
-			// var create_form = document.getElementById('create_form');
-			// create_form.reset();
-
-			// 検索値を取得しフォームにセットする（セッション保持のため）
-			// var from_date = $('#from_date').val();
-			// var to_date = $('#to_date').val();
-			// var week = $('#week').val();
-			// var student_name = $('#student_name').val();
-			// var student_kana = $('#student_kana').val();
-			// var free_word = $('#free_word').val();
-
-			// $('#from_date2').val(from_date);
-			// $('#to_date2').val(to_date);
-			// $('#week2').val(week);
-			// $('#student_name2').val(student_name);
-			// $('#student_kana2').val(student_kana);
-			// $('#free_word2').val(free_word);
-			// console.log(pickup_students_id);
 
 			// 要素の中を初期化する
 			$('#route_title').empty();
@@ -220,6 +180,11 @@
 
 	});
 
+
+	//------------------------------------------------------*\
+	//google MAP API (とりあえず動いた)
+	//------------------------------------------------------*/
+	// 初期設定
 	function initMap() {
 		const directionsService = new google.maps.DirectionsService();
 		const directionsRenderer = new google.maps.DirectionsRenderer();
@@ -228,10 +193,12 @@
 			center: { "lat": 35.391028,"lng": 136.7234769 },
 		});
 
+		// 経路ボタン押下⇒登録された送迎ルートをマップに描画
 		directionsRenderer.setMap(map);
 		document.getElementById("normal").addEventListener("click", () => {
 			calculateAndDisplayRoute1(directionsService, directionsRenderer);
 		});
+		// 最適化ボタン押下⇒送迎に参加するお子さまの住所情報から、最適な順番を返してもらい、その結果をマップに描画
 		document.getElementById("optimal").addEventListener("click", () => {
 			calculateAndDisplayRoute2(directionsService, directionsRenderer);
 		});
@@ -241,40 +208,20 @@
 	var school_address = "{{ $school_data->formatted_address }}"//教室の住所
 	var school_name = "{{ $school_data->place_name }}"//教室の名前
 
+	// 経路ボタン押下
 	function calculateAndDisplayRoute1(directionsService, directionsRenderer) {
 
 		const optimalArea = document.getElementById("optimal_area");
 		optimalArea.innerHTML = "";
 
 		const wayPoints = [];
-		// const checkboxArray = document.getElementById("waypoints");
 
-		// for (let i = 0; i < checkboxArray.length; i++) {
-		// 	if (checkboxArray.options[i].selected) {
-		// 	waypts.push({
-		// 		location: checkboxArray[i].value,
-		// 		stopover: true,
-		// 	});
-		// 	}
-		// }
 		var display = document.getElementById('table_sort');
 		var display_data = display.getElementsByTagName('input');
 		for(var m = 0; m < display_data.length; m++) {
 				// const formatted_address = display_data[m].dataset.formatted_address;
 				wayPoints.push({location: display_data[m].dataset.formatted_address});
 		}
-
-		// wayPoints.push({location: {
-		// 				"lat": 35.4337096,
-		// 				"lng": 136.7691215
-		// 				}});
-		// wayPoints.push({location: {
-		// 				"lat": 35.3998295,
-		// 				"lng": 136.7298335
-		// 				}});
-		// wayPoints.push({location: 'スカイツリー'});
-		// wayPoints.push({location: '池袋サンシャインビル'});
-
 
 		directionsService
 		.route({
@@ -304,7 +251,6 @@
 				const display_num = i ;
 				res_place_id = "";
 				res_place_id = res_waypoints[i].place_id;
-				// console.log(res_waypoints[i].place_id);
 
 				if(i == 0){
 					summaryPanel.innerHTML += "<tr class='text-left odd:bg-white even:bg-gray-100 dark:odd:bg-slate-900 dark:even:bg-slate-800'><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>出発地点</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + abc[res_waypoints.length-1] + "</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + school_name + "</td></tr>";
@@ -321,28 +267,16 @@
 					var student_name = $(this).data('student_name');
 					var sche_stu_id = $(this).data('sche_stu_id');
 					var formatted_address = $(this).data('formatted_address');
-					// console.log("place_id:"+place_id);
 					if(place_id == res_place_id){
-						// summaryPanel.innerHTML += display_num + "番目：" + student_name + "<br>";
 						summaryPanel.innerHTML += "<tr class='text-left odd:bg-white even:bg-gray-100 dark:odd:bg-slate-900 dark:even:bg-slate-800'><td class='optimal_res px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200' data-sche_stu_id="+sche_stu_id+" >経由" + display_num + "</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + abc[i] + "</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + student_name + "</td></tr>";
 					}
 				})
-				// $('#table_sort').find('input').each(function(idx){
-				// 	// place_idを取得
-				// 	var place_id = $(this).data('place_id');
-				// 	var student_name = $(this).data('student_name');
-				// 	var formatted_address = $(this).data('formatted_address');
-				// 	console.log("place_id:"+place_id);
-				// 	if(place_id == res_place_id){
-				// 		summaryPanel.innerHTML += display_num + "番目：" + student_name + "<br>";
-				// 	// $(this).val(idx + 1);
-				// 	}
-				// })
 			}
 		})
 		.catch((e) => window.alert("Directions request failed due to " + status));
 	}
 
+	// 最適化ボタン押下
 	function calculateAndDisplayRoute2(directionsService, directionsRenderer) {
 
 		const wayPoints = [];
@@ -401,17 +335,6 @@
 						summaryPanel.innerHTML += "<tr class='text-left odd:bg-white even:bg-gray-100 dark:odd:bg-slate-900 dark:even:bg-slate-800'><td class='optimal_res px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200' data-sche_stu_id="+sche_stu_id+" >経由" + display_num + "</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + abc[i] + "</td><td class='px-4 py-2 whitespace-nowrap text-sm text-gray-800 dark:text-gray-200'>" + student_name + "</td></tr>";
 					}
 				})
-				// $('#table_sort').find('input').each(function(idx){
-				// 	// place_idを取得
-				// 	var place_id = $(this).data('place_id');
-				// 	var student_name = $(this).data('student_name');
-				// 	var formatted_address = $(this).data('formatted_address');
-				// 	console.log("place_id:"+place_id);
-				// 	if(place_id == res_place_id){
-				// 		summaryPanel.innerHTML += display_num + "番目：" + student_name + "<br>";
-				// 	// $(this).val(idx + 1);
-				// 	}
-				// })
 			}
 		})
 		.catch((e) => window.alert("Directions request failed due to " + status));
@@ -438,157 +361,6 @@
 		}
 		$('#update').submit();
 	}
-
-
-		// window.initMap = initMap;
-
-	
-
-	// var _map;
-
-	// // 地図の初期化
-	// var initMap = function() {
-	// 	_map = new google.maps.Map(document.getElementById("map"), {
-	// 		zoom : 14,
-	// 		center: { "lat": 35.391028,"lng": 136.7234769 },
-	// 		mayTypeId: google.maps.MapTypeId.ROADMAP
-	// 	});
-	// };
-
-	// var directionsService = new google.maps.DirectionsService;
-	// var directionsRenderer = new google.maps.DirectionsRenderer;
-
-	// // ルート検索を実行
-	// directionsService.route({
-	// 	origin: "東京駅",
-	// 	destination: "新宿駅",
-	// 	travelMode: google.maps.TravelMode.DRIVING
-	// }, function(response, status) {
-	// 	console.log(response);
-	// 	if (status === google.maps.DirectionsStatus.OK) {
-	// 		// ルート検索の結果を地図上に描画
-	// 		directionsRenderer.setMap(map);
-	// 		directionsRenderer.setDirections(response); 
-	// 	}
-	// });
-
-
-	// --------------
-
-
-
-	// // ルート検索実行
-	// var calcRoute = function() {	
-	// 	// 経由地の配列を生成
-	// 	var wayPoints = new Array();
-	// 	wayPoints.push({location: '東京タワー'});
-	// 	wayPoints.push({location: 'スカイツリー'});
-	// 	wayPoints.push({location: '池袋サンシャインビル'});
-	// 	wayPoints.push({location: '東京都庁'});
-	// 	wayPoints.push({location: 'お台場'});
-
-	// 	// DirectionsService生成
-	// 	var directionsService = new google.maps.DirectionsService();
-
-	// 	// DirectionｓRenderer生成
-	// 	var directionsRenderer = new google.maps.DirectionsRenderer();
-	// 	directionsRenderer.setPanel(document.getElementById('route-panel'));
-	// 	directionsRenderer.setMap(_map);
-
-	// 	// ルート検索実行
-	// 	directionsService.route({
-	// 		origin: 'マルティスープ',  // 出発地
-	// 		destination: '六本木ヒルズ',  // 到着地
-	// 		avoidHighways: true, // 高速は利用しない
-	// 		travelMode: google.maps.TravelMode.DRIVING, // 車モード
-	// 		optimizeWaypoints: true, // 最適化を有効
-	// 		waypoints: wayPoints // 経由地
-	// 	}, function(response, status) {
-	// 		console.log(response);
-	// 		if (status === google.maps.DirectionsStatus.OK) {
-	// 			directionsRenderer.setDirections(response);
-	// 			var legs = response.routes[0].legs;
-				
-	// 			// 総距離と総時間の合計する
-	// 			var dis = 0;
-	// 			var sec = 0;
-	// 			$.each(legs, function(i, val) {
-	// 				sec += val.duration.value;
-	// 				dis += val.distance.value;
-	// 			});
-	// 			console.log("distance=" + dis + ", secound=" + sec);
-	// 		} else {
-	// 			alert('Directions 失敗(' + status + ')');
-	// 		}
-	// 	});	
-	// };
-
-	// calcRoute();
-
-	// --------------
-
-	// function initMap() {
-	// const directionsService = new google.maps.DirectionsService();
-	// const directionsRenderer = new google.maps.DirectionsRenderer();
-	// const map = new google.maps.Map(document.getElementById("map"), {
-	// 	zoom: 6,
-	// 	center: { "lat": 35.391028,"lng": 136.7234769 },
-	// });
-
-	// directionsRenderer.setMap(map);
-	// document.getElementById("submit").addEventListener("click", () => {
-	// 	calculateAndDisplayRoute(directionsService, directionsRenderer);
-	// });
-	// }
-
-	// function calculateAndDisplayRoute(directionsService, directionsRenderer) {
-	// const waypts = [];
-	// const checkboxArray = [];
-	// const checkboxArray = document.getElementById("waypoints");
-
-	// for (let i = 0; i < checkboxArray.length; i++) {
-	// 	if (checkboxArray.options[i].selected) {
-	// 	waypts.push({
-	// 		location: checkboxArray[i].value,
-	// 		stopover: true,
-	// 	});
-	// 	}
-	// }
-
-	// directionsService
-	// 	.route({
-	// 	origin: document.getElementById("start").value,
-	// 	destination: document.getElementById("end").value,
-	// 	waypoints: waypts,
-	// 	optimizeWaypoints: true,
-	// 	travelMode: google.maps.TravelMode.DRIVING,
-	// 	})
-	// 	.then((response) => {
-	// 	directionsRenderer.setDirections(response);
-
-	// 	const route = response.routes[0];
-	// 	const summaryPanel = document.getElementById("directions-panel");
-
-	// 	summaryPanel.innerHTML = "";
-
-	// 	// For each route, display summary information.
-	// 	for (let i = 0; i < route.legs.length; i++) {
-	// 		const routeSegment = i + 1;
-
-	// 		summaryPanel.innerHTML +=
-	// 		"<b>Route Segment: " + routeSegment + "</b><br>";
-	// 		summaryPanel.innerHTML += route.legs[i].start_address + " to ";
-	// 		summaryPanel.innerHTML += route.legs[i].end_address + "<br>";
-	// 		summaryPanel.innerHTML += route.legs[i].distance.text + "<br><br>";
-	// 	}
-	// 	})
-	// 	.catch((e) => window.alert("Directions request failed due to " + status));
-	// }
-
-	// window.initMap = initMap;
-
-	// --------------
-
 
 </script>
 

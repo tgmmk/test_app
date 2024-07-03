@@ -83,7 +83,6 @@
                             </div>
                         </div>
 						{{ $data->links('vendor.pagination.tailwind2') }}
-						<!-- {{ $data->onEachSide(5)->links() }} -->
 					</div>
                 </div>
             </div>
@@ -100,9 +99,7 @@
 			$('#mst_place_id').val(mst_place_id);
 			//検索フォームの行き先を変更
 			$('#search').attr('action', '/pickup_place/edit/'+mst_place_id);
-
 			$('#search').submit();
-
 		});
 
 	});

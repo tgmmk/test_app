@@ -1,150 +1,136 @@
-
-
+<!-- htmlの前にscriptを記述しないと動作しなかった。読み込み順などの問題なのか。 -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
 <script>
+/**
+ * @license
+ * Copyright 2019 Google LLC. All Rights Reserved.
+ * SPDX-License-Identifier: Apache-2.0
+ */
+let map;
+let marker;
+let geocoder;
+let responseDiv;
+let response;
 
-// $(function () {
-	/**
-	 * @license
-	 * Copyright 2019 Google LLC. All Rights Reserved.
-	 * SPDX-License-Identifier: Apache-2.0
-	 */
-	let map;
-	let marker;
-	let geocoder;
-	let responseDiv;
-	let response;
+function initMap() {
+	map = new google.maps.Map(document.getElementById("map"), {
+		zoom: 14,
+		// center: { lat: -34.397, lng: 150.644 },
+		center: { "lat": 35.391028,"lng": 136.7234769 },
+		mapTypeControl: false,
+	});
+	geocoder = new google.maps.Geocoder();
 
-	function initMap() {
-		map = new google.maps.Map(document.getElementById("map"), {
-			zoom: 14,
-			// center: { lat: -34.397, lng: 150.644 },
-			center: { "lat": 35.391028,"lng": 136.7234769 },
-			mapTypeControl: false,
-		});
-		geocoder = new google.maps.Geocoder();
+	const inputText = document.createElement("input");
 
-		const inputText = document.createElement("input");
+	inputText.type = "text";
+	inputText.id = "geo_input_txt";
+	inputText.placeholder = "住所を入力してください";
 
-		inputText.type = "text";
-		inputText.id = "geo_input_txt";
-		inputText.placeholder = "住所を入力してください";
+	const submitButton = document.createElement("input");
 
-		const submitButton = document.createElement("input");
+	submitButton.type = "button";
+	submitButton.value = "取得";
+	submitButton.classList.add("button", "geo_button");
+	submitButton.classList.add("button", "button-primary");
 
-		submitButton.type = "button";
-		submitButton.value = "取得";
-		submitButton.classList.add("button", "geo_button");
-		submitButton.classList.add("button", "button-primary");
+	const clearButton = document.createElement("input");
+	clearButton.type = "button";
+	clearButton.value = "Clear";
+	clearButton.classList.add("button", "button-secondary");
+	response = document.createElement("pre");
+	response.id = "response";
+	response.innerText = "";
+	responseDiv = document.createElement("div");
+	responseDiv.id = "response-container";
+	responseDiv.appendChild(response);
+	clearButton.type = "button";
+	clearButton.value = "Clear";
+	clearButton.classList.add("button", "geo_button");
+	clearButton.classList.add("button", "button-secondary");
+	response = document.createElement("pre");
+	response.id = "response";
+	response.innerText = "";
+	responseDiv = document.createElement("div");
+	responseDiv.id = "response-container";
+	responseDiv.appendChild(response);
 
-		const clearButton = document.createElement("input");
-        clearButton.type = "button";
-        clearButton.value = "Clear";
-        clearButton.classList.add("button", "button-secondary");
-        response = document.createElement("pre");
-        response.id = "response";
-        response.innerText = "";
-        responseDiv = document.createElement("div");
-        responseDiv.id = "response-container";
-        responseDiv.appendChild(response);
-		clearButton.type = "button";
-		clearButton.value = "Clear";
-		clearButton.classList.add("button", "geo_button");
-		clearButton.classList.add("button", "button-secondary");
-		response = document.createElement("pre");
-		response.id = "response";
-		response.innerText = "";
-		responseDiv = document.createElement("div");
-		responseDiv.id = "response-container";
-		responseDiv.appendChild(response);
-
-		// const instructionsElement = document.createElement("p");
-
-		// instructionsElement.id = "instructions";
-		// instructionsElement.innerHTML =
-		// 	"↑に住所を入力してください。";
-		map.controls[google.maps.ControlPosition.TOP_LEFT].push(inputText);
-		map.controls[google.maps.ControlPosition.TOP_LEFT].push(submitButton);
-		map.controls[google.maps.ControlPosition.TOP_LEFT].push(clearButton);
-		// map.controls[google.maps.ControlPosition.RIGHT_TOP].push(
-		// 	instructionsElement
-		// );
-		map.controls[google.maps.ControlPosition.LEFT_TOP].push(responseDiv);
-		marker = new google.maps.Marker({
-			map,
-		});
-		map.addListener("click", (e) => {
-			geocode({ location: e.latLng });
-		});
-		submitButton.addEventListener("click", () =>
-			geocode({ address: inputText.value })
-			);
-			clearButton.addEventListener("click", () => {
-			clear();
-		});
+	// 	"↑に住所を入力してください。";
+	map.controls[google.maps.ControlPosition.TOP_LEFT].push(inputText);
+	map.controls[google.maps.ControlPosition.TOP_LEFT].push(submitButton);
+	map.controls[google.maps.ControlPosition.TOP_LEFT].push(clearButton);
+	map.controls[google.maps.ControlPosition.LEFT_TOP].push(responseDiv);
+	marker = new google.maps.Marker({
+		map,
+	});
+	map.addListener("click", (e) => {
+		geocode({ location: e.latLng });
+	});
+	submitButton.addEventListener("click", () =>
+		geocode({ address: inputText.value })
+		);
+		clearButton.addEventListener("click", () => {
 		clear();
-	}
-
-	function clear() {
-	marker.setMap(null);
-	}
-
-	function geocode(request) {
+	});
 	clear();
-	geocoder
-		.geocode(request)
-		.then((result) => {
-			const { results } = result;
-			// console.log('結果');
-			// console.log(results[0].geometry.location.lng);
-			map.setCenter(results[0].geometry.location);
-			marker.setPosition(results[0].geometry.location);
-			marker.setMap(map);
-			response.innerText = JSON.stringify(result, null, 2);
-			// 登録用エリアに住所をセット
-			var result_address = document.getElementById('result_address');
-			var formatted_address = results[0].formatted_address;
-			result_address.value = formatted_address;
-			// 登録用エリアに結果のjsonをセット
-			var result_json = document.getElementById('result_json');
-			result_json.value = response.innerText;
-		})
-		.catch((e) => {
-			// ele.style.visibility = 'visible';
-			var err_html = '<div class="max-w-7xl mx-auto py-2 px-4 sm:px-6 lg:px-8">';
-            err_html +=    '<div id="dismiss-alert2" class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-red-50 border border-red-200 text-sm text-red-800 rounded-lg p-4 dark:bg-red-800/10 dark:border-red-900 dark:text-red-500" role="alert">';
-            err_html +=        '<div class="flex">';
-            err_html +=            '<div class="flex-shrink-0">';
-            err_html +=            '<svg class="flex-shrink-0 size-4 mt-0.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg>                        </div>';
-            err_html +=            '<div class="ms-2">';
-            err_html +=            '<div class="text-sm font-medium">';
-            err_html +=                "次の理由により、住所検索は成功しませんでした: ";
-            err_html +=                e;
-            err_html +=            '</div>';
-            err_html +=            '</div>';
-            err_html +=            '<div class="ps-3 ms-auto">';
-            err_html +=            '<div class="-mx-1.5 -my-1.5">';
-            err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
-            err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
-            err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
-            err_html +=                '<span class="sr-only">Dismiss</span>';
-            err_html +=                '<svg class="flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
-            err_html +=                '</button>';
-            err_html +=            '</div>';
-            err_html +=            '</div>';
-            err_html +=        '</div>';
-            err_html +=    '</div>';
-            err_html +='</div>';
-			document.getElementById("flash_area").innerHTML = err_html;
-			// document.getElementById("flash_area").appendChild(err_html);
-			// document.getElementById("response-container").remove();
-		// alert("次の理由により、住所検索は成功しませんでした: " + e);
-		});
-	}
+}
 
-	window.initMap = initMap;
+function clear() {
+marker.setMap(null);
+}
 
-// });
+function geocode(request) {
+clear();
+geocoder
+	.geocode(request)
+	.then((result) => {
+		const { results } = result;
+		// console.log('結果');
+		// console.log(results[0].geometry.location.lng);
+		map.setCenter(results[0].geometry.location);
+		marker.setPosition(results[0].geometry.location);
+		marker.setMap(map);
+		response.innerText = JSON.stringify(result, null, 2);
+		// 登録用エリアに住所をセット
+		var result_address = document.getElementById('result_address');
+		var formatted_address = results[0].formatted_address;
+		result_address.value = formatted_address;
+		// 登録用エリアに結果のjsonをセット
+		var result_json = document.getElementById('result_json');
+		result_json.value = response.innerText;
+	})
+	.catch((e) => {
+		// ele.style.visibility = 'visible';
+		var err_html = '<div class="max-w-7xl mx-auto py-2 px-4 sm:px-6 lg:px-8">';
+		err_html +=    '<div id="dismiss-alert2" class="hs-removing:translate-x-5 hs-removing:opacity-0 transition duration-300 bg-red-50 border border-red-200 text-sm text-red-800 rounded-lg p-4 dark:bg-red-800/10 dark:border-red-900 dark:text-red-500" role="alert">';
+		err_html +=        '<div class="flex">';
+		err_html +=            '<div class="flex-shrink-0">';
+		err_html +=            '<svg class="flex-shrink-0 size-4 mt-0.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg>                        </div>';
+		err_html +=            '<div class="ms-2">';
+		err_html +=            '<div class="text-sm font-medium">';
+		err_html +=                "次の理由により、住所検索は成功しませんでした: ";
+		err_html +=                e;
+		err_html +=            '</div>';
+		err_html +=            '</div>';
+		err_html +=            '<div class="ps-3 ms-auto">';
+		err_html +=            '<div class="-mx-1.5 -my-1.5">';
+		err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
+		err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
+		err_html +=                '<button type="button" class="inline-flex bg-red-50 rounded-lg p-1.5 text-red-500 hover:bg-red-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600 dark:bg-transparent dark:hover:bg-teal-800/50 dark:text-red-600" data-hs-remove-element="#dismiss-alert2">';
+		err_html +=                '<span class="sr-only">Dismiss</span>';
+		err_html +=                '<svg class="flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
+		err_html +=                '</button>';
+		err_html +=            '</div>';
+		err_html +=            '</div>';
+		err_html +=        '</div>';
+		err_html +=    '</div>';
+		err_html +='</div>';
+		document.getElementById("flash_area").innerHTML = err_html;
+	});
+}
+
+window.initMap = initMap;
+
 </script>
 
 <x-app-layout>
@@ -226,7 +212,6 @@
 
 				<div id="map" style="height: 400px;"></div>
 				<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjDxKLUxy3fQYmwEX61Vep-X7qFnno0KA&callback=initMap&v=weekly&solution_channel=GMP_CCS_geocodingservice_v1&language=ja" defer></script>
-				<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEOVF6B4i4gTX0ueXjV_ohVqqNOqzcpXI&callback=initMap&v=weekly&solution_channel=GMP_CCS_geocodingservice_v1" defer></script> -->
 
                 </div>
             </div>

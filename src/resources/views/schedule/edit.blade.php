@@ -106,10 +106,8 @@
 				</div>
 
 				<!-- 編集モーダル start-->
-					<!-- <div id="hs-basic-modal" tabindex="-1" aria-hidden="true" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none"> -->
 					<div id="hs-basic-modal" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none">
 						<div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all lg:max-w-4xl lg:w-full m-3 lg:mx-auto"><!-- largeサイズ -->
-						<!-- <div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all sm:max-w-lg sm:w-full m-3 sm:mx-auto"> basicサイズ-->
 							<div class="flex flex-col bg-white border shadow-sm rounded-xl pointer-events-auto dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
 								<div class="flex justify-between items-center py-3 px-4 border-b dark:border-gray-700">
 									<h3 class="font-bold text-gray-800 dark:text-white">
@@ -161,10 +159,8 @@
 					</div>
 				<!-- modal end-->
 				<!-- 削除モーダル start-->
-					<!-- <div id="hs-basic-modal" tabindex="-1" aria-hidden="true" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none"> -->
 					<div id="hs-delete-modal" class="hs-overlay hs-overlay-open:opacity-100 hs-overlay-open:duration-500 hidden size-full fixed top-0 start-0 z-[80] opacity-0 overflow-x-hidden transition-all overflow-y-auto pointer-events-none">
 						<div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all lg:max-w-4xl lg:w-full m-3 lg:mx-auto"><!-- largeサイズ -->
-						<!-- <div class="hs-overlay-open:opacity-100 hs-overlay-open:duration-500 opacity-0 transition-all sm:max-w-lg sm:w-full m-3 sm:mx-auto"> basicサイズ-->
 							<div class="flex flex-col bg-white border shadow-sm rounded-xl pointer-events-auto dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
 								<form action="/schedule/delete" method="post" enctype="multipart/form-data" class="p-6" >
 								この教室を削除します。よろしいですか。
@@ -228,175 +224,7 @@
 				//処理を抜ける
 				return;
 			}
-
-
-
 		});
-        // alert('test');
-
-		// //画像押下時 画像拡大モーダル発動
-		// $(document).on('click', '.imgBtn', function(){
-
-		// 	//リセット
-		// 	$('.bigimg').children().attr('src', null);
-		// 	$('#file_name').text(null);
-
-		// 	//選択した画像情報
-		// 	var imgSrc = $(this).data('path');
-		// 	var name = $(this).data('name');
-		// 	console.log(name);
-
-		// 	//画像拡大モーダルにセット
-		// 	$('.bigimg').children().attr('src', imgSrc);
-		// 	$('#file_name').text(name);
-
-		// 	//モーダル発動
-		// 	$('#modal_file').show();
-		// });
-
-		// //お迎え時間のプルダウンが選択されるたび実行
-		// $(document).on("change", ".select_start_time", function () {
-
-		// 	//所要時間
-		// 	var time_required = $('#time_required').val();
-			
-		// 	var time_required = parseInt(time_required);
-
-		// 	var select_start_time = $(".select_start_time").val();
-		// 	var hour = select_start_time.slice(0, 2);
-		// 	var minutes = select_start_time.slice(3, 5);
-		// 	var hour = parseInt(hour);
-		// 	var minutes = parseInt(minutes);
-
-		// 	if(time_required > 0){
-		// 		//所要時間を足す
-		// 		minutes = minutes + time_required;
-		// 		if(minutes >= 60){
-		// 			//console.log('1時間以上の場合');
-		// 			//分を時間換算する	参考サイトhttps://mebee.info/2022/07/26/post-61467/
-		// 			var diff_hour = `${Math.floor(minutes / 60)}`;//時間
-		// 			var diff_minutes = `${ minutes % 60 }` //分
-		// 			//console.log('diff_hour:'+diff_hour);
-		// 			//console.log('diff_minutes:'+diff_minutes);
-		// 			diff_hour = parseInt(diff_hour);//足し算するため数値に変換
-		// 			hour = hour + diff_hour;//お迎え時間+所要時間の「時」の値
-		// 			console.log('hour:'+hour);
-		// 			minutes = diff_minutes;;//所要時間の「分」の値
-		// 		}
-		// 		//hourが一桁のとき、先頭に0を足す。例(8:00)
-		// 		if(hour < 10){
-		// 			hour = '0'+hour.toString();
-		// 			//console.log('先頭に0を足す:hour='+hour);
-		// 		}
-		// 		//分が一桁のとき、先頭に0を足す
-		// 		if(minutes < 10){
-		// 			minutes = '0'+minutes.toString();
-		// 		}
-		// 		$('.select_end_time').val(hour+":"+minutes);
-		// 	}else{;
-		// 		//１時間後の数字にする
-		// 		hour = hour + 1;
-		// 		//hourが一桁のとき、先頭に0を足す。例(8:00)
-		// 		if(hour < 10){
-		// 			hour = '0'+hour.toString();
-		// 			//console.log('先頭に0を足す:hour='+hour);
-		// 		}
-		// 		//分が一桁のとき、先頭に0を足す
-		// 		if(minutes < 10){
-		// 			minutes = '0'+minutes.toString();
-		// 		}
-		// 		$('.select_end_time').val(hour+":"+minutes);
-		// 	}
-
-		// });
-
-		// //更新ボタン押下時
-		// $(document).on('click', '#confirmedBtn', function(){
-
-		// 	$('div.content-header').empty();
-
-		// 	console.log('pickup_div:'+pickup_div);
-		// 	var flg = "";
-		// 	var service_div = $("#service_div").val();
-		// 	console.log('service_div:'+service_div);
-		// 	if(pickup_div == 1){
-		// 		var from_place_id = $("#from_place_id").val();
-		// 		var start_time = $("#school_start_time").val();
-		// 		var to_place_id = $("#to_place_id").val();
-		// 		var end_time = $("#school_end_time").val();
-		// 	}else{
-		// 		var from_place_id = $("#from_place_id").val();
-		// 		var start_time = $("#start_time").val();
-		// 		var to_place_id = $("#to_place_id").val();
-		// 		var end_time = $("#end_time").val();
-		// 		//var end_time = $("#end_time_head").val();//管理者の場合
-		// 	}
-
-		// 	console.log('start_time='+start_time);
-		// 	console.log('end_time='+end_time);
-		// 	//最初の2文字を取得
-		// 	//お迎え時間
-		// 	var hourStr1 = start_time.slice(0, 2);
-		// 	//最後から2文字を取得
-		// 	var minutes1 = start_time.slice(3, 5);
-		// 	var startTime = new Date( 2000, 0, 01, hourStr1, minutes1);
-		// 	//お送り時間
-		// 	var hourStr2 = end_time.slice(0, 2);
-		// 	var minutes2 = end_time.slice(3, 5);
-		// 	var endTime = new Date( 2000, 0, 01, hourStr2, minutes2);
-		// 	//時間差
-		// 	var elapsedTime = endTime.getTime() - startTime.getTime()
-		// 	var time_diff = elapsedTime / ( 1000 * 60 ); // 分の計算
-		
-		// 	console.log('time_diff='+time_diff);
-		// 	//場所と時間の値を送り、伸芽会の契約ごとのルールに沿った内容かを確認する
-		// 	$.ajax({
-		// 		type: "Get",
-		// 		url: "/getRequestCheck",
-		// 		data: {
-		// 			'pickup_div':pickup_div,
-		// 			'service_div':service_div,
-		// 			'from_place_id':from_place_id, 
-		// 			'start_time':start_time,
-		// 			'to_place_id':to_place_id, 
-		// 			'end_time':end_time, 
-		// 			'time_diff':time_diff, 
-		// 			'flg':flg, 
-		// 		},
-		// 		dataType : "json"
-		// 	}).done(function(result){
-		// 		console.log(result);
-				
-		// 		if(result[0] == true || result === undefined){
-		// 			//フォームの2重送信を防止する
-		// 			$("#confirmedBtn").prop('disabled', true);
-
-		// 			$('#update').attr({
-		// 				action: '/application/update',
-		// 				method: 'post'
-		// 			});
-
-		// 			$('#update').submit();
-		// 		}else{
-
-		// 			$.each(result, function(index, value) {
-		// 				$('div.content-header').prepend('<div class="alert alert-danger"> \
-		// 													<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button> \
-		// 													<i class="icon fas fa-exclamation-triangle"></i>'+value+'\
-		// 												</div>');
-		// 			})
-		// 			//モーダルを閉じる
-		// 			$('#commissionCheckModal').modal('hide');
-		// 		}
-				
-		// 	}).fail(function(XMLHttpRequest, textStatus, error){
-		// 		console.log("通信に失敗しました。");
-		// 		console.log(jqXHR.status);
-		// 		console.log(textStatus);
-		// 		console.log(errorThrown.message);
-		// 	});
-		// });
-
 	});
 
 </script>

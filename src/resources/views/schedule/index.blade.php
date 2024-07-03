@@ -139,29 +139,6 @@
 					<input type="hidden" name="free_word2" id="free_word2" value="">
 					@csrf
 					<div id="append_area">
-						<!-- <input type="hidden" name="type" id="type" value="single">
-						<div class="grid gap-4 sm:grid-cols-2">
-							<div>
-								<label for="date" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">日付</label>
-								<input type="date" name="date" id="date" class="border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cyan-600 focus:border-cyan-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" value="">
-							</div>
-							<div>
-								<label for="event" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">予定</label>
-								<input type="text" name="event" id="event" class="border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cyan-600 focus:border-cyan-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" value="">
-							</div>
-							<div>
-								<label for="create_start_time" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">開始時間</label>
-								<input type="time" name="create_start_time" id="create_start_time" class="border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cyan-600 focus:border-cyan-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" value="">
-							</div>
-							<div>
-								<label for="create_end_time" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">終了時間</label>
-								<input type="time" name="create_end_time" id="create_end_time" class="border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cyan-600 focus:border-cyan-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" value="">
-							</div>
-							<div class="sm:col-span-2">
-								<label for="remark" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">備考</label>
-								<textarea id="remark" name="remark" rows="4" maxlength="500" class="block p-2.5 w-full text-sm text-gray-900 rounded-lg border border-gray-300 focus:ring-cyan-500 focus:border-cyan-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"></textarea>                    
-							</div>
-						</div> -->
 					</div>
 					<div class="flex justify-center items-center gap-x-2 pt-5 px-4 dark:border-gray-700">
 						<button type="submit" class="createConfirmBtn py-2 px-10 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-lime-400 hover:bg-lime-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
@@ -183,9 +160,7 @@
 			$('#sche_id').val(schedule_id);
 			//検索フォームの行き先を変更
 			$('#search').attr('action', '/schedule/edit/'+schedule_id);
-
 			$('#search').submit();
-
 		});
 
 		$('.createBtn').click(function() {

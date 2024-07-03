@@ -111,9 +111,7 @@
 			$('#route_id').val(route_id);
 			//検索フォームの行き先を変更
 			$('#search').attr('action', '/pickup/edit/'+route_id);
-
 			$('#search').submit();
-
 		});
 
 	});
